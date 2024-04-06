@@ -13,7 +13,7 @@ Após estudar as técnicas, e levando em consideração o acesso aos usuários, 
 - [Brainstorm]()
 - [Termo de Consentimento](./Base/ElicitacaoRequisitos/TermoConsentimento.md)
 - [Questionário](./Base/ElicitacaoRequisitos/Questionario.md)
-- [Personas]()
+- [Personas](./Base/ElicitacaoRequisitos/Personas.md)
 
 ## Bibliografia
 

@@ -13,6 +13,7 @@
     - [1.4. Elicitação de Requisitos](./Base/ElicitacaoRequisitos/Elicitacao.md)
       - [1.4.1 Termo de Consentimento](./Base/ElicitacaoRequisitos/TermoConsentimento.md)
       - [1.4.2 Questionário](./Base/ElicitacaoRequisitos/Questionario.md)
+      - [1.4.3 Personas](./Base/ElicitacaoRequisitos/Personas.md)
     - [1.5. Design Sprint](./Base/DesignSprint.md)  
       - [1.5.1 Léxicos](./Base/Lexicos.md)
       - [1.5.2 Glossário](./Base/Glossario.md)
