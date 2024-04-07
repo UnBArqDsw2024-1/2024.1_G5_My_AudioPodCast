@@ -5,6 +5,7 @@
 | Data       | Descrição | Autor | Revisor |
 |------------|-----------|-------|---------|
 | 02/04/2024 | Inicializando documentação do Rich Picture | [Caio Lelis](https://github.com/caio-lelis)  |     |
+| 07/04/2024 | Adicionando conteúdo ao Rich Picture | [Caio Lelis](https://github.com/caio-lelis) |     |
 
 ## 1. Introdução
 
@@ -13,45 +14,33 @@
 
 ## 2. Abordagem , Elementos e legendas 
 
-Para o desenvolvimento do Rich Picture foi designado uma dupla para que o artefato fosse produzido em par, os membros se juntaram e com a ajuda das ferramentas [Miro](https://miro.com/pt/)  e  [Discord](https://discord.com/) trabalharam para o desenvolvimento do artefato.
+<p style="text-align: justify; font-size: 18px;"> Para o desenvolvimento do Rich Picture foi designado uma dupla para que o artefato fosse produzido em par, os membros se juntaram e com a ajuda das ferramentas <a href="https://www.canva.com/">Canva</a>  e <a href="https://discord.com/">Discord</a> trabalharam para o desenvolvimento do artefato.
 
 
-## 2.1 Legendas do RichPicture 1
-
-| Elemento                | Legenda                                | Anexo da Imagem                 |
-|-------------------------|----------------------------------------|---------------------------------|
-| **Atores**              | Descrição dos atores envolvidos.       | ![Atores](URL_da_imagem_atores) |
-| **Sistema**             | Descrição do sistema.                  | ![Sistema](URL_da_imagem_sistema) |
-| **Fluxos de Informação**| Descrição dos fluxos de informação.    | ![Fluxos](URL_da_imagem_fluxos) |
-| **Interações**          | Descrição das interações entre atores. | ![Interações](URL_da_imagem_interações) |
-| **Problemas**           | Descrição dos problemas identificados. | ![Problemas](URL_da_imagem_problemas) |
-| **Oportunidades**       | Descrição das oportunidades encontradas.| ![Oportunidades](URL_da_imagem_oportunidades) |
-
-
-
-## 2.2 Legendas do RichPicture 2
+## 2.1 Legendas do RichPicture 
 
 | Elemento                | Legenda                                | Anexo da Imagem                 |
 |-------------------------|----------------------------------------|---------------------------------|
-| **Atores**              | Descrição dos atores envolvidos.       | ![Atores](URL_da_imagem_atores) |
-| **Sistema**             | Descrição do sistema.                  | ![Sistema](URL_da_imagem_sistema) |
-| **Fluxos de Informação**| Descrição dos fluxos de informação.    | ![Fluxos](URL_da_imagem_fluxos) |
-| **Interações**          | Descrição das interações entre atores. | ![Interações](URL_da_imagem_interações) |
-| **Problemas**           | Descrição dos problemas identificados. | ![Problemas](URL_da_imagem_problemas) |
-| **Oportunidades**       | Descrição das oportunidades encontradas.| ![Oportunidades](URL_da_imagem_oportunidades) |
+| **Ator**              | Descrição dos atores envolvidos.       | ![Atores](URL_da_imagem_atores) |
+| **Dados**             | Descrição do sistema.                  | ![Sistema](URL_da_imagem_sistema) |
+| **Flechas**| Descrição dos fluxos de informação.    | ![Fluxos](URL_da_imagem_fluxos) |
+| **Operações**          | Descrição das interações entre atores. | ![Interações](URL_da_imagem_interações) |
+| **Limites do sistema**           | Descrição dos problemas identificados. | ![Problemas](URL_da_imagem_problemas) |
+
+
+
 
 
 ## 3.  Rich Pictures Produzidos
 
-## 3.1 Rich Picture 01
+## 3.1 Rich Picture 1
 
 
-## 3.2 Rich Picture 02
 
 
 ## 4. Conclusão
 
-Neste documento, apresentamos o conceito e a importância do Rich Picture como uma ferramenta visual para representar a relação entre atores e sistemas do nosso domínio. Além disso, discutimos as legendas utilizadas no Rich Picture e como elas podem ajudar na compreensão do artefato. Por fim, destacamos a produção de dois Rich Pictures e sua relevância para a análise de problemas e oportunidades.
+A partir do Rich Picture, foi possível identificar os atores envolvidos no cenário de avaliação de produtos na plataforma Mundo Podcast, bem como as interações entre eles e o sistema. Além disso, foi possível identificar os problemas e oportunidades presentes nesse contexto, o que contribuiu para uma visão mais clara e abrangente do cenário em questão.
 
 ## 5. Referências Bibliográficas
 
