@@ -23,6 +23,9 @@ Este tipo de protótipo oferece uma representação o mais próxima possível do
 
 <div>
     <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FNqmtHPLo6BfwwuUpTtuMV3%2FMundo-Podcast-Update%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DBIPPG2ILcK9gsFxD-1" allowfullscreen></iframe>
+    <div style="text-align: center">
+        <p>Imagem: Protótipo de alta fidelidade (Fonte: Delziron Braz de Lima e Ana Beatriz Wanderley Massuh)</p>
+    </div>
 </div>
 
 ## 5. Bibliografia
