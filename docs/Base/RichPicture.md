@@ -22,21 +22,26 @@
 
 | Elemento                | Legenda                                | Anexo da Imagem                 |
 |-------------------------|----------------------------------------|---------------------------------|
-| **Ator**              | Descrição dos atores envolvidos.       | ![Atores](URL_da_imagem_atores) |
-| **Dados**             | Descrição do sistema.                  | ![Sistema](URL_da_imagem_sistema) |
+| **Ator**              | Descrição dos atores envolvidos.       | ![Atores](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/ator.png) |
+| **Dados**             | Descrição do sistema.                  | ![Sistema](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/dados%2C.png) |
 | **Flechas**           | Descrição dos fluxos de informação.    | ![Fluxos](URL_da_imagem_fluxos) |
-| **Operações**          | Descrição das interações entre atores. | ![Interações](URL_da_imagem_interações) |
-| **Limites do sistema**    | Descrição dos problemas identificados. | ![Problemas](URL_da_imagem_problemas) |
+| **Operações**          | Descrição das interações entre atores. | ![Interações](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/operacoes.png) |
+| **Limites do sistema**    | Descrição dos problemas identificados. | ![Problemas](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/fronteira.png) |
 
 
+<div style="text-align: center">
+<p>Tabela 1: Legendas do rich picture  </p>
+</div>
 
 
-
-## 3.  Rich Pictures Produzidos
-
-## 3.1 Rich Picture 1
+## 3.  Rich Picture
 
 
+<img src="https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/Rich%20Picture-MyAudioPodcast.png">
+ 
+ <div style="text-align: center">
+<p>Fonte: Imagem 1 - Rich picture Mundo podcast </p>
+</div>
 
 
 ## 4. Conclusão
