@@ -7,6 +7,7 @@
 | 02/04/2024 | Inicializando documentação do Rich Picture | [Caio Lelis](https://github.com/caio-lelis)  |     |
 | 07/04/2024 | Adicionando conteúdo ao Rich Picture | [Caio Lelis](https://github.com/caio-lelis) |     |
 
+
 ## 1. Introdução
 
 <p style="text-align: justify; font-size: 18px;"> O Rich Picture é uma ferramenta visual que permite ilustrar a relação entre os atores e o sistema envolvidos nos fluxos compreendidos nas avaliações dos produtos na plataforma Mundo Podcast. Ele oferece uma representação gráfica que facilita a compreensão dos diferentes elementos e suas interações nesse contexto. Com o Rich Picture, é possível identificar os atores principais, suas responsabilidades, e como eles se relacionam com o sistema, proporcionando uma visão geral do cenário em questão. </p>
@@ -23,9 +24,9 @@
 |-------------------------|----------------------------------------|---------------------------------|
 | **Ator**              | Descrição dos atores envolvidos.       | ![Atores](URL_da_imagem_atores) |
 | **Dados**             | Descrição do sistema.                  | ![Sistema](URL_da_imagem_sistema) |
-| **Flechas**| Descrição dos fluxos de informação.    | ![Fluxos](URL_da_imagem_fluxos) |
+| **Flechas**           | Descrição dos fluxos de informação.    | ![Fluxos](URL_da_imagem_fluxos) |
 | **Operações**          | Descrição das interações entre atores. | ![Interações](URL_da_imagem_interações) |
-| **Limites do sistema**           | Descrição dos problemas identificados. | ![Problemas](URL_da_imagem_problemas) |
+| **Limites do sistema**    | Descrição dos problemas identificados. | ![Problemas](URL_da_imagem_problemas) |
 
 
 
