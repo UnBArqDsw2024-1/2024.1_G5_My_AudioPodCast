@@ -1,14 +1,17 @@
-Diretrizes Gerais e Complementares Obrigatórias
+# Diretrizes Gerais e Complementares Obrigatórias
 
-	Seguem as principais diretrizes para elaboração dos projetos na disciplina.
+Seguem as principais diretrizes para elaboração dos projetos na disciplina.
 
-Diretrizes Gerais
+## Diretrizes Gerais
+
 Deve-se organizar a Wiki e o repositório do projeto conforme consta no RepositoryTemplate. Por exemplo, para o caso da Primeira Entrega:
 
-    1.  Desenho de Software (Base)
+1. Desenho de Software (Base)
+
 A Wiki ou GitPages do Projeto deve conter um tópico dedicado ao Módulo Desenho de Software (Base), com dois subtópicos principais, conforme 1.1 e 1.2, e subtópico de cunho complementar, conforme 1.3.
 
-** 1.1. Módulo Projeto Não Orientado a Abordagens Específicas
+## 1.1. Módulo Projeto Não Orientado a Abordagens Específicas
+
 Usando a lista de projetos indicados por grupo para o período letivo vigente (vide final dessas Diretrizes), sendo uma lista de projetos já existentes e implementados, realizar Design Sprint para levantamento dos requisitos de uma possível evolução desse software.
 
 Focos_1_2_3: Desing Sprint, Técnicas de Elicitação e Artefatos Independentes de Metodologia
@@ -21,8 +24,7 @@ A Wiki ou GitPages do Projeto deve conter um tópico dedicado ao Módulo Projeto
 
 Demais orientações disponíveis nas Diretrizes (vide Moodle).
 
-
-1.2. Módulo Processos/Metodologias/Abordagens
+## 1.2. Módulo Processos/Metodologias/Abordagens
 
 Foco_4: Metodologia (Modelagem BPMN & Escolhas Metodológicas)
 
@@ -35,45 +37,45 @@ A Wiki ou GitPages do Projeto deve conter um tópico dedicado ao Módulo Process
 Demais orientações disponíveis nas Diretrizes (vide Moodle).
 
 
-1.3. Participações - Base
+## 1.3. Participações - Base
 
 Breve relato sobre as participações/contribuições de cada membro à entrega.
 
 Módulo Projeto Não Orientado a Abordagens Específicas
-Nome do Membro | Contribuição (Base - Foco_1) | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula)
 
-Fulano | 1. Participação nas Etapas da Design Sprint elaborando artefatos | Boa
-
-TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DA ENTREGA.
-
-
-Módulo Projeto Não Orientado a Abordagens Específicas
-Nome do Membro | Contribuição (Base - Foco_2)| Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula)
-
-Fulano | 1. Elaboração do roteiro aplicado na entrevista. 2. Realização da Entrevista junto ao Interessado Carlos |
-Excelente
+| Nome do Membro | Contribuição (Base - Foco_1) | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| :--: | :--: | :--: |
+| Fulano | 1. Participação nas Etapas da Design Sprint elaborando artefatos | Boa |
 
 TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DA ENTREGA.
 
 
 Módulo Projeto Não Orientado a Abordagens Específicas
+| Nome do Membro | Contribuição (Base - Foco_2)| Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| :--: | :--: | :--: |
+| Fulano | 1. Elaboração do roteiro aplicado na entrevista. 2. Realização da Entrevista junto ao Interessado Carlos | Excelente |
 
-Nome do Membro | Contribuição (Base - Foco_3) | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula)
+TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DA ENTREGA.
 
-Fulano | 1. Elaboração do Artefato 5W2H | Regular
+
+Módulo Projeto Não Orientado a Abordagens Específicas
+
+| Nome do Membro | Contribuição (Base - Foco_3) | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| :--: | :--: | :--: |
+| Fulano | 1. Elaboração do Artefato 5W2H | Regular |
 
 TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DA ENTREGA.
 
 
 Módulo Processos/Metodologias/Abordagens
 
-Nome do Membro | Contribuição (Base - Foco_4) | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula)
-
-Fulano | 1. Modelagem da atividade ATIVIDADE_X. 2. Participação no subprocesso SUBPROCESSO_Y | Regular
+| Nome do Membro | Contribuição (Base - Foco_4) | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| :--: | :--: | :--: |
+| Fulano | 1. Modelagem da atividade ATIVIDADE_X. 2. Participação no subprocesso SUBPROCESSO_Y | Regular |
 
 TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DA ENTREGA.
 
-** Diretrizes Complementares
+## Diretrizes Complementares
 
 Se o artefato envolver implementação, documentar essa implementação, com um pequeno trecho de código (com elo para o código de fato) que permita aferir a pertinência e a qualidade dessa implementação bem como a participação dos evolvidos.
 
@@ -88,7 +90,7 @@ TODOS os membros devem participar na elaboração do projeto correspondente ao s
 Demais orientações constam disponíveis nas Diretrizes (vide Aprender 3) e/ou com a professora Milene.
 
 
-** Projetos - Período   2024.1
+## Projetos - Período   2024.1
 
 Segue a lista de projetos desse período letivo:
 
