@@ -49,4 +49,4 @@ Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
 ## Histórico de versão
 |  Versão  | Data da alteração | Alteração | Responsável | Revisor | Data de revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1.0 |  06/04 | Criação do documento, adição de participantes e informações sobre o projeto | [Milena Aires](https://github.com/milenaaires) | - | - |
+| 1.0 |  06/04 | Criação do documento, adição de participantes e informações sobre o projeto | [Milena Aires](https://github.com/milenaaires) | [Arthur D'Assumpção](https://github.com/ArtAssLou) | - |
