@@ -25,12 +25,15 @@ A tabela 1 abaixo elenca os principais requisitos funcionais da plataforma "Mund
 | RF01  | Permitir que os usuários escolham um catálogo de Podcasts de sua preferência. | RF |
 | RF02  | Permitir que os produtores de podcasts carreguem seus episódios na plataforma para distribuição. | RF |
 | RF03  | Oferecer aos usuários a capacidade de ouvir os episódios de podcast diretamente na plataforma, sem a necessidade de fazer o download. | RF |
-| RF04  | Oferecer ferramentas de busca avançada e recomendação para os usuários descobrirem novos podcasts com base em seus interesses. | RF |
-| RF05  | Permitir que os usuários comentem e avaliem os episódios e podcasts, fornecendo feedback aos produtores e ajudando outros usuários a encontrar conteúdo relevante. | RF |
-| RF06  | Facilitar o compartilhamento de episódios e podcasts nas redes sociais para aumentar a visibilidade e o alcance do conteúdo. | RF |
-| RF07  | Fornecer aos produtores de podcast dados analíticos detalhados sobre o desempenho de seus episódios, incluindo número de ouvintes, tempo de escuta, geolocalização, entre outros. | RF |
-| RF08  | Oferecer recursos de personalização para os usuários, como listas de reprodução personalizadas e recomendações com base em seu histórico de escuta. | RF |
-| RF09  | Garantir que a plataforma seja acessível em diversos dispositivos, incluindo smartphones, tablets e computadores, com uma interface amigável e responsiva. | RF |
+| RF04  | Permitir que os usuários consigam realizar o download de episódios de sua preferência. | RF |
+| RF05  | Permitir que os usuários consigam criar playlists personalizadas com base em seus interesses pessoas. | RF |
+| RF06  | Permitir que os usuários consigam aumentar a velocidade de reprodução dos episódios. | RF |
+| RF07  | Oferecer ferramentas de busca avançada e recomendação para os usuários descobrirem novos podcasts com base em seus interesses. | RF |
+| RF08  | Permitir que os usuários comentem, avaliem e favoritem os episódios e podcasts, fornecendo feedback aos produtores e ajudando outros usuários a encontrar conteúdo relevante. | RF |
+| RF09  | Facilitar o compartilhamento de episódios e podcasts nas redes sociais para aumentar a visibilidade e o alcance do conteúdo. | RF |
+| RF10  | Fornecer aos produtores de podcast dados analíticos detalhados sobre o desempenho de seus episódios, incluindo número de ouvintes, tempo de escuta, geolocalização, entre outros. | RF |
+| RF11  | Oferecer recursos de personalização para os usuários, como listas de reprodução personalizadas e recomendações com base em seu histórico de escuta. | RF |
+| RF12  | Garantir que a plataforma seja acessível em diversos dispositivos, incluindo smartphones, tablets e computadores, com uma interface amigável e responsiva. | RF |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais (Fonte: Mateus Franco)</p>
