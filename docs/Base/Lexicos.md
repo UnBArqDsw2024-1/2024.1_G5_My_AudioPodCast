@@ -87,6 +87,35 @@ Os léxicos podem ser categorizados em verbos, sujeitos, objetos ou estados. Ele
 |     **Noção**     |                    Uma classificação que agrupa podcasts com base em temas ou assuntos semelhantes, facilitando a descoberta de novos conteúdos.                    |
 |    **Impacto**    | As categorias ajudam os ouvintes a encontrar podcasts relevantes para seus interesses e permitem que os criadores alcancem seu público-alvo de maneira mais eficaz. |
 
+## L09 - Audiência
+
+|      Léxico:      |                                                               Audiência                                                               |
+|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+| **Classificação** |                                                               {Sujeito}                                                               |
+|   **Sinônimos**   |                                                           Público, Ouvintes                                                           |
+|     **Noção**     |                             O conjunto de pessoas que ouvem ou seguem um determinado podcast ou episódio.                             |
+|    **Impacto**    | A audiência é fundamental para medir o sucesso de um podcast e pode influenciar diretamente nas estratégias de produção e divulgação. |
+
+## L10 - Comentário
+
+|      Léxico:      |                                                                   Comentário                                                                   |
+|:-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Classificação** |                                                                    {Objeto}                                                                    |
+|   **Sinônimos**   |                                                               Feedback, Opinião                                                                |
+|     **Noção**     |                  Uma mensagem escrita deixada por um ouvinte em resposta a um episódio específico ou ao podcast como um todo.                  |
+|    **Impacto**    | Os comentários fornecem aos criadores de podcasts insights sobre a percepção do público e podem ajudar a moldar futuros conteúdos e melhorias. |
+
+
+## L11 - Assinar
+
+|      Léxico:      |                                                                                                       Assinar                                                                                                       |
+|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Classificação** |                                                                                                       {Verbo}                                                                                                       |
+|   **Sinônimos**   |                                                                                                Seguir, Inscrever-se                                                                                                 |
+|     **Noção**     | A ação realizada por um usuário para indicar interesse em um episódio específico de um podcast, permitindo que sejam recebidas notificações ou atualizações sobre esse episódio em outras plataformas de streaming. |
+|    **Impacto**    |        Ao assinar um episódio, os usuários garantem que serão informados sobre novos lançamentos e atualizações, facilitando o acompanhamento contínuo de seus podcasts favoritos em diferentes plataformas.        |
+
+
 ## Referências
 
 > CONSTRUÇÃO do léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 : 4th Workshop in Information and Human Language Technology, Ribeirão Preto, Brazil, 23 out. 2006. CD-ROM. Acesso em: 08 abr. 2024
@@ -98,4 +127,4 @@ Os léxicos podem ser categorizados em verbos, sujeitos, objetos ou estados. Ele
 | Data       | Versão | Modificação                   | Autor    |
 |------------|--------|-------------------------------|----------|
 | 08/04/2024 | 1.0    | Criação do escopo dos Léxicos | Leonardo |
-| 08/04/2024 | 1.1    | Preenchimento dos léxicos | Bruno Henrique |
+| 08/04/2024 | 1.1    | Preenchimento e adição de novos léxicos | Bruno Henrique |
