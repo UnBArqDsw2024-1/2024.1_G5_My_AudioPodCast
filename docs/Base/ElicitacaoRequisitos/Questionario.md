@@ -24,7 +24,7 @@ A tabela 1 abaixo contém a seleção de perguntas utilizadas no questionário, 
 | 3 | Qual seu grau de escolaridade? |
 | 4 | Você tem fácil acesso à internet? |
 | 5 | Você utiliza ou já utilizou algum serviço de Podcast? |
-| 6 | Com qual frequeência você utiliza serviços de Podcast? |
+| 6 | Com qual frequência você utiliza serviços de Podcast? |
 | 7 | Onde você costuma ouvir Podcast? (Ex: em casa, no carro, durante o exercício) |
 | 8 | Existe alguma funcionalidade específica que você gostaria de ver em um aplicativo de Podcast? |
 | 9 | Quais são os temas que mais te interessam em um Podcast? |
@@ -36,6 +36,33 @@ A tabela 1 abaixo contém a seleção de perguntas utilizadas no questionário, 
 </center>
 
 ## Resultado do questionário
+
+### Pergunta 1 - Qual sua faixa etária?
+<img width="600" src="../images/respostas-questionario/faixaEtaria.jpg">
+
+### Pergunta 2 - Você se identifica com qual gênero?
+<img width="600" src="../images/respostas-questionario/genero.jpg">
+
+### Pergunta 3 - Qual seu grau de escolaridade?
+<img width="600" src="../images/respostas-questionario/escolaridade.jpg">
+
+### Pergunta 4 - Você tem fácil acesso à internet?
+<img width="600" src="../images/respostas-questionario/internet.jpg">
+
+### Pergunta 5 - Você utiliza ou já utilizou algum serviço de Podcast?
+<img width="600" src="../images/respostas-questionario/servicoPodcast.jpg">
+
+### Pergunta 6 - Com qual frequência você utiliza serviços de Podcast?
+<img width="600" src="../images/respostas-questionario/frequencia.jpg">
+
+### Pergunta 7 - Onde você costuma ouvir Podcast?
+<img width="600" src="../images/respostas-questionario/local.jpg">
+
+### Pergunta 8 - Existe alguma funcionalidade específica que você gostaria de ver em um aplicativo de Podcast?
+<img width="600" src="../images/respostas-questionario/funcionalidades.jpg">
+
+### Pergunta 9 - Quais são os temas que mais te interessam em um Podcast?
+<img width="600" src="../images/respostas-questionario/temas.jpg">
 
 ## Bibliografia
 
