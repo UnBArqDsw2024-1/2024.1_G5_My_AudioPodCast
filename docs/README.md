@@ -1,35 +1,9 @@
-# Grupo 5 - My AudioPodCast
+# 2024.1_G5_My_AudioPodCast
 
-<p align="center">
-    <img src="docs/images/Logoreadme.gif">
-</p>
+**Código da disciplina:** FGA0208<br>
+**Número do Grupo:** 05<br>
 
-## Introdução
-
-Este repositório faz parte da disciplina Arquitetura e Desenho de Software da Universidade de Brasília, ministrada pela professora Milene Serrano. Tem como  objetivo analisar a arquitetura de software de um site que presta serviços de Podcast tendo como base o site [Mundo PodCast](https://mundopodcast.com.br/). 
-
-Nossa análise se concetra em "Escutar um PodCast" e na "Plataforma". Vamos verificar os fluxos de interação compreendo como a arquitetura e desenho de software lida com cada aspecto. 
-
-## Tecnologia
-
-Você pode acessar a documentação na íntegra [aqui](). A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/#/).
-
-Se você deseja executar o projeto localmente na sua máquina, certifique-se de haver as dependências necessárias instaladas. Para isso, primeiramente clone o repositório:
-
-```shell
-git clone git@github.com:UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas.git
-```
-
-Em seguida, instale as bibliotecas necessárias por meio do seguinte comando:
-```shell
-npm i docsify-cli -g
-```
-
-Por fim, no diretório raiz do repositório, execute o comando:
-```shell
-docsify init ./docs
-```
-## Equipe
+## Alunos
 | Foto | Matrícula | Aluno | GitHub |
 | :--: | :--: | :--: | :--: |
 | <img src="https://avatars.githubusercontent.com/u/87723296?v=4" width="100px" alt="Foto de Ana Beatriz Wanderley Massuh"> | 20/0060783 | Ana Beatriz Wanderley Massuh | [AnaBeatrizMassuh](https://github.com/AnaBeatrizMassuh) |
@@ -46,8 +20,33 @@ docsify init ./docs
 | <img src="https://avatars.githubusercontent.com/u/78734372?v=4" width="100px" alt="Foto de Pedro Henrique Caldeira de Moraes"> | 19/0036427 | Pedro Henrique Caldeira de Moraes | [PedroMoraes39](https://github.com/PedroMoraes39) |
 | <img src="https://avatars.githubusercontent.com/u/107417831?v=4" width="100px" alt="Foto de Samuel Victor Castro Macedo"> | 17/0114139 | Samuel Victor Castro Macedo | [SamuelCastro7](https://github.com/SamuelCastro7) |
 
-## Histórico de Versão
+
+## Sobre 
+
+Este projeto faz parte da disciplina Arquitetura e Desenho de Software da Universidade de Brasília, ministrada pela professora Milene Serrano. Tem como  objetivo analisar a arquitetura de software de um site que presta serviços de Podcast tendo como base o site [Mundo PodCast](https://mundopodcast.com.br/). 
+
+Nossa análise se concetra em "Escutar um PodCast" e na "Plataforma". Vamos verificar os fluxos de interação compreendo como a arquitetura e desenho de software lida com cada aspecto. 
+
+## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
+Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
+
+>## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
+
+
+>## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
+
+
+>## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
+
+
+## Descritivo dos Principais Aspectos Técnicos 
+**Principal(is) Metodologia(s) Adotada(s)**: Scrum Adaptado<br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: Markdown e HTML<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: GitHub e LicidChart<br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: -<br>
+
+
+## Histórico de versão
 |  Versão  | Data da alteração | Alteração | Responsável | Revisor | Data de revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1.0 | 06/04 | Criação do documento, adição de ícones, euipe e execução local | [Milena Aires](https://github.com/milenaaires) | - | - |
-
+| 1.0 |  06/04 | Criação do documento, adição de participantes e informações sobre o projeto | [Milena Aires](https://github.com/milenaaires) | [Arthur D'Assumpção](https://github.com/ArtAssLou)[Emerson Teles](https://github.com/EmersonTeles) | - |
