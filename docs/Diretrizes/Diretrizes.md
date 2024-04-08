@@ -144,4 +144,3 @@ Segue a lista de projetos desse período letivo:
     • Não usar o nome do site real. A ideia é usar o nome My_Lyrics mesmo, e apenas se basear em um site de letras de músicas para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
     
 OBS: Caso existam novos matriculados na disciplina, acima de 130 alunos, novos projetos serão propostos pela professora. Portanto, nesses casos, conversar com a professora na época.
-
