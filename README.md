@@ -49,7 +49,7 @@ Você pode acessar a documentação na íntegra [aqui](). A geração do site es
 Se você deseja executar o projeto localmente na sua máquina, certifique-se de haver as dependências necessárias instaladas. Para isso, primeiramente clone o repositório:
 
 ```shell
-git clone git@github.com:UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas.git
+git clone git@github.com:UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast.git
 ```
 
 Em seguida, instale as bibliotecas necessárias por meio do seguinte comando:
