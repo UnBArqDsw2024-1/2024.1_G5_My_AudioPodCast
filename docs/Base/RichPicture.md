@@ -20,13 +20,42 @@
 
 ## 2.1 Legendas do RichPicture 
 
-| Elemento                | Legenda                                | Anexo da Imagem                 |
-|-------------------------|----------------------------------------|---------------------------------|
-| **Ator**              | Descrição dos atores envolvidos.       | ![Atores](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/ator.png) |
-| **Dados**             | Descrição do sistema.                  | ![Sistema](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/dados%2C.png) |
-| **Flechas**           | Descrição dos fluxos de informação.    | ![Fluxos](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/flechas.png) |
-| **Operações**          | Descrição das interações entre atores. | ![Interações](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/operacoes.png) |
-| **Limites do sistema**    | Descrição dos problemas identificados. | ![Problemas](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/fronteira.png) |
+<table>
+  <thead>
+    <tr>
+      <th>Elemento</th>
+      <th>Legenda</th>
+      <th>Imagem</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ator</td>
+      <td>Descrição dos atores envolvidos.</td>
+      <td><img src="Base/assets/ator.png" alt="Atores"></td>
+    </tr>
+    <tr>
+      <td>Dados</td>
+      <td>Descrição do sistema.</td>
+      <td><img src="Base/assets/dados.png" alt="Sistema"></td>
+    </tr>
+    <tr>
+      <td>Flechas</td>
+      <td>Descrição dos fluxos de informação.</td>
+      <td><img src="Base/assets/flechas.png" alt="Fluxos"></td>
+    </tr>
+    <tr>
+      <td>Operações</td>
+      <td>Descrição das interações entre atores.</td>
+      <td><img src="Base/assets/operacoes.png" alt="Interações"></td>
+    </tr>
+    <tr>
+      <td>Limites do sistema</td>
+      <td>Descrição dos problemas identificados.</td>
+      <td><img src="Base/assets/fronteira.png" alt="Problemas"></td>
+    </tr>
+  </tbody>
+</table>
 
 
 <div style="text-align: center">

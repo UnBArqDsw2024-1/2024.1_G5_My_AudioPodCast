@@ -21,7 +21,7 @@
       - [1.5.3 Brainstorm](./Brainstorm/Brainstorm.md)
       - [1.5.4 Mapa Mental](./Base/MapaMental.md)
       - [1.5.5 BPMN da Plataforma](./Base/BPMN.md)
-      - [1.5.6 Rich Picture](./Base/RichPicture.md)
+      - [1.5.6 Rich Picture](docs/Base/RichPicture.md)
       - [1.5.7 Protótipo](./Base/Prototipo.md)
 
 - **Modelagem**
