@@ -1,4 +1,4 @@
-F# Rich Picture 
+## Rich Picture 
 
 ## Histórico de Versão
 
@@ -35,9 +35,7 @@ F# Rich Picture
 
 
 ## 3.  Rich Picture
-
-
-<img src="https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/Rich%20Picture-MyAudioPodcast.png">
+![Rich Picture](../assets/Rich%20Picture-MyAudioPodcast.png)
  
  <div style="text-align: center">
 <p>Fonte: Imagem 1 - Rich picture Mundo podcast </p>
