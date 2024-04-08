@@ -19,7 +19,7 @@ jobs:
       - name: Build and deploy Docsify
         run: |
           cd docs
-          docsify generate .
+          docsify generate . --no-sidebar-filename
           git config --global user.email "your_email@example.com"
           git config --global user.name "Your Name"
           git add .
