@@ -1,4 +1,4 @@
-# Rich Picture 
+F# Rich Picture 
 
 ## Histórico de Versão
 
@@ -24,7 +24,7 @@
 |-------------------------|----------------------------------------|---------------------------------|
 | **Ator**              | Descrição dos atores envolvidos.       | ![Atores](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/ator.png) |
 | **Dados**             | Descrição do sistema.                  | ![Sistema](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/dados%2C.png) |
-| **Flechas**           | Descrição dos fluxos de informação.    | ![Fluxos](URL_da_imagem_fluxos) |
+| **Flechas**           | Descrição dos fluxos de informação.    | ![Fluxos](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/flechas.png) |
 | **Operações**          | Descrição das interações entre atores. | ![Interações](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/operacoes.png) |
 | **Limites do sistema**    | Descrição dos problemas identificados. | ![Problemas](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/reach_picture/docs/assets/fronteira.png) |
 
