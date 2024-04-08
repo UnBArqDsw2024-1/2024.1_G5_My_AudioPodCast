@@ -64,7 +64,8 @@
 
 
 ## 3.  Rich Picture
-![Rich Picture](../assets/Rich%20Picture-MyAudioPodcast.png)
+
+<img src="Base/assets/Rich%20Picture-MyAudioPodcast.png"></img>
  
  <div style="text-align: center">
 <p>Fonte: Imagem 1 - Rich picture Mundo podcast </p>
