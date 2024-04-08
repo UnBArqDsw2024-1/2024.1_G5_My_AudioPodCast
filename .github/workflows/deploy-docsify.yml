@@ -19,10 +19,9 @@ jobs:
       - name: Build and deploy Docsify
         run: |
           cd docs
-          docsify build .
+          docsify generate . --sidebar _sidebar.md 
           git config --global user.email "your_email@example.com"
           git config --global user.name "Your Name"
           git add .
           git commit -m "Deploying Docsify"
           git push origin main
-

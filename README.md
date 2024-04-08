@@ -1,3 +1,35 @@
+# RepositorioTemplate
+
+Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+
+## Introdução
+
+Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+
+## Tecnologia
+
+A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+
+```shell
+"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
+```
+
+### Instalando o docsify
+
+Execute o comando:
+
+```shell
+npm i docsify-cli -g
+```
+
+### Executando localmente
+
+Para iniciar o site localmente, utilize o comando:
+
+```shell
+docsify serve ./docs
+```
+=======
 # Grupo 5 - My AudioPodCast
 
 <p align="center">
@@ -17,7 +49,7 @@ Você pode acessar a documentação na íntegra [aqui](). A geração do site es
 Se você deseja executar o projeto localmente na sua máquina, certifique-se de haver as dependências necessárias instaladas. Para isso, primeiramente clone o repositório:
 
 ```shell
-git clone git@github.com:UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas.git
+git clone git@github.com:UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast.git
 ```
 
 Em seguida, instale as bibliotecas necessárias por meio do seguinte comando:
@@ -50,4 +82,3 @@ docsify init ./docs
 |  Versão  | Data da alteração | Alteração | Responsável | Revisor | Data de revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1.0 | 06/04 | Criação do documento, adição de ícones, euipe e execução local | [Milena Aires](https://github.com/milenaaires) | - | - |
-
