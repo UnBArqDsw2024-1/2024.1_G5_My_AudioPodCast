@@ -1,4 +1,4 @@
-F# Rich Picture 
+# Rich Picture 
 
 ## Histórico de Versão
 
