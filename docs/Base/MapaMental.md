@@ -8,7 +8,7 @@ No contexto do nosso projeto com o site mundopodcast.com.br, utilizamos o mapa m
 
 Essa abordagem nos permitiu ter uma visão ampla do site e das possíveis melhorias, ao mesmo tempo em que facilitou a identificação de áreas prioritárias para focar. Além disso, o uso de post-its tornou mais fácil reorganizar e atualizar as sugestões conforme necessário, garantindo que o processo de planejamento seja flexível e adaptável às necessidades em constante evolução do site e dos usuários.
 
-![Mapa Mental](docs\images\mapaMental.png)
+![Mapa Mental](../images/mapaMental.png)
 
 ## Histórico de versão
 

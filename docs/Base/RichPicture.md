@@ -64,6 +64,7 @@
 
 
 ## 3.  Rich Picture
+
 <img src="Base/assets/Rich%20Picture-MyAudioPodcast.png"></img>
  
  <div style="text-align: center">
