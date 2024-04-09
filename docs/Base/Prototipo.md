@@ -38,7 +38,7 @@ Isabela Lobo, uma estudante de arquitetura e urbanismo, expressou sua satisfaç�
 
 ## 6. Bibliografia
 
-[1] Dias Ricardo.,[Prototipagem de Software]([)](https://medium.com/contexto-delimitado/prototipagem-de-software-7ac07027e6d8)
+[1] Dias Ricardo.,[Prototipagem de Software](https://medium.com/contexto-delimitado/prototipagem-de-software-7ac07027e6d8)
 
 [2] Soares João., [Como funciona a prototipação no desenvolvimento de software?](https://www.treinaweb.com.br/blog/como-funciona-a-prototipacao-no-desenvolvimento-de-software#:~:text=A%20prototipa%C3%A7%C3%A3o%20%C3%A9%20um%20processo,e%20gera%20valor%20ao%20cliente.)
 
@@ -49,4 +49,4 @@ Isabela Lobo, uma estudante de arquitetura e urbanismo, expressou sua satisfaç�
 | 06/04/2024 | 0.1    | Criação do Documento                          | Delziron Braz de Lima                                                                | Ana Beatriz Wanderley Massuh    |
 | 07/04/2024 | 0.2    | Adição do Protótipo                           | Delziron Braz de Lima, Ana Beatriz Wanderley Massuh, Mateus Vinícius Ferreira Franco | Delziron Braz de Lima           |
 | 07/04/2024 | 0.3    | Refatoração no Texto e Adição da bibliografia | Ana Beatriz Wanderley Massuh                                                         | Mateus Vinícius Ferreira Franco |
-| 07/04/2024 | 1.0    | Adição das entrevistas validando o protótipo  | Delziron Braz de Lima                                                                | Ana Beatriz                     |
+| 08/04/2024 | 1.0    | Adição das entrevistas validando o protótipo  | Delziron Braz de Lima                                                                | Ana Beatriz                     |
