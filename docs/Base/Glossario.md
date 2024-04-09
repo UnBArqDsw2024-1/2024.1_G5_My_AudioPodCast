@@ -126,6 +126,12 @@ Para a definir a lista que engloba os termos e suas definições, foi montado o 
 | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Termos e Condições | Um documento legal que estabelece as regras e obrigações para o uso de um serviço ou plataforma, geralmente incluindo políticas de privacidade e termos de uso. |
 
+### 20 - Pull Request (PR)
+
+|       Termo:       |                                                                            Definição                                                                            |
+| :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Um pull request é uma solicitação feita pelo desenvolvedor para que as alterações realizadas na sua branch sejam "puxadas" (merged) para a branch principal. Ele inclui informações detalhadas sobre as alterações feitas, sua finalidade, os problemas que resolvem e quaisquer outros detalhes relevantes. |
+
 ## Referências
 
 > SERRANO, Milene. DSW-BASE - Glossário Léxico. Apresentação do Power Point. Disponível em: https://aprender3.unb.br/pluginfile.php/2790229/mod_label/intro/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf. Acesso em: 08 abr. 2024
@@ -136,3 +142,4 @@ Para a definir a lista que engloba os termos e suas definições, foi montado o 
 | ---------- | ------ | ------------------------------------------------------------- | ---------- |
 | 08/04/2024 | 1.0    | Criação do escopo do Glossario e Preenchimento de informações | Leonardo   |
 | 08/04/2024 | 1.1    | Adição de novos termos do glossário                           | João Elvas |
+| 08/04/2024 | 1.2    | Adição de novos termos do glossário                           | Arthur D'Assumpção |
