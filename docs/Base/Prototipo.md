@@ -28,16 +28,25 @@ Este tipo de protótipo oferece uma representação o mais próxima possível do
     </div>
 </div>
 
-## 5. Bibliografia
+## 5. Validação
+
+### 5.1 Entrevista 01
+Mateus Landim, um estudante de Engenharia Elétrica, foi o pioneiro a participar da validação do protótipo. Ele expressou sua apreciação pela interface desenvolvida, destacando sua clareza e intuitividade. Durante a apresentação do site base, Mateus observou com humor a presença de artigos em uma aplicação voltada para podcasts e mencionou um pequeno atraso no início dos áudios.
+
+### 5.2 Entrevista 02
+Isabela Lobo, uma estudante de arquitetura e urbanismo, expressou sua satisfação com o protótipo, elogiando especialmente as cores escolhidas. Durante a análise do site base, sugeriu uma melhoria: a inclusão de uma página dedicada aos podcasts, considerando que a ausência dessa seção resulta em páginas não encontradas ao clicar nos subitens correspondentes.
+
+## 6. Bibliografia
 
 [1] Dias Ricardo.,[Prototipagem de Software]([)](https://medium.com/contexto-delimitado/prototipagem-de-software-7ac07027e6d8)
 
 [2] Soares João., [Como funciona a prototipação no desenvolvimento de software?](https://www.treinaweb.com.br/blog/como-funciona-a-prototipacao-no-desenvolvimento-de-software#:~:text=A%20prototipa%C3%A7%C3%A3o%20%C3%A9%20um%20processo,e%20gera%20valor%20ao%20cliente.)
 
-## 6. Histórico de Versão
+## 7. Histórico de Versão
 
 | Data       | Versão | Modificação                                   | Autor                                                                                | Revisor                         |
 | ---------- | ------ | --------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------- |
 | 06/04/2024 | 0.1    | Criação do Documento                          | Delziron Braz de Lima                                                                | Ana Beatriz Wanderley Massuh    |
 | 07/04/2024 | 0.2    | Adição do Protótipo                           | Delziron Braz de Lima, Ana Beatriz Wanderley Massuh, Mateus Vinícius Ferreira Franco | Delziron Braz de Lima           |
 | 07/04/2024 | 0.3    | Refatoração no Texto e Adição da bibliografia | Ana Beatriz Wanderley Massuh                                                         | Mateus Vinícius Ferreira Franco |
+| 07/04/2024 | 1.0    | Adição das entrevistas validando o protótipo  | Delziron Braz de Lima                                                                | Ana Beatriz                     |
