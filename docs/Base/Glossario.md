@@ -142,4 +142,4 @@ Para a definir a lista que engloba os termos e suas definições, foi montado o 
 | ---------- | ------ | ------------------------------------------------------------- | ---------- |
 | 08/04/2024 | 1.0    | Criação do escopo do Glossario e Preenchimento de informações | Leonardo   |
 | 08/04/2024 | 1.1    | Adição de novos termos do glossário                           | João Elvas |
-| 08/04/2024 | 1.2    | Adição de novos termos do glossário                           | Arthur D'Assumpção |
+| 08/04/2024 | 1.2    | Adição de novos termos do glossário                           | Arthur D'Assumpção & Emerson Teles|
