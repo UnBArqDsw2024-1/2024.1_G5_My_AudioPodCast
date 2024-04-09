@@ -18,7 +18,7 @@
     - [1.5. Design Sprint](./Base/DesignSprint.md)  
       - [1.5.1 Léxicos](./Base/Lexicos.md)
       - [1.5.2 Glossário](./Base/Glossario.md)
-      - [1.5.3 Brainstorm](./Brainstorm/Brainstorm.md)
+      - [1.5.3 Brainstorm](./Base/Brainstorming.md)
       - [1.5.4 Mapa Mental](./Base/MapaMental.md)
       - [1.5.5 Rich Picture](./Base/RichPicture.md)
       - [1.5.6 Protótipo](./Base/Prototipo.md)
