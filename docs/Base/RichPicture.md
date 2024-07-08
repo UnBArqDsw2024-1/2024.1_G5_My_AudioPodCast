@@ -72,10 +72,11 @@ A partir do Rich Picture, foi possível identificar os atores envolvidos no cen�
 
 ## Histórico de Versão
 
-| Data       | Descrição | Autor | Revisor |
-|------------|-----------|-------|---------|
-| 02/04/2024 | Inicializando documentação do Rich Picture | [Caio Lelis](https://github.com/caio-lelis)  |     |
-| 07/04/2024 | Adicionando conteúdo ao Rich Picture | [Caio Lelis](https://github.com/caio-lelis) |     |
+| Data       | Versão | Descrição                              | Autor                                     | Revisor |
+|------------|--------|----------------------------------------|-------------------------------------------|---------|
+| 02/04/2024 | 1.0    | Inicializando documentação do Rich Picture | [Caio Lelis](https://github.com/caio-lelis) |         |
+| 07/04/2024 | 1.1    | Adicionando conteúdo ao Rich Picture     | [Caio Lelis](https://github.com/caio-lelis) |         |
+
 
 
 ## 5. Referências Bibliográficas
