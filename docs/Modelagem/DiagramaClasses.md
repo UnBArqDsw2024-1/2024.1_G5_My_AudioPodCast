@@ -33,6 +33,17 @@ Os atributos de uma classe podem possuir diferentes níveis de acesso, dependend
 
 - **Protegido (#)**: Atributos protegidos podem ser acessados dentro da própria classe e por classes derivadas (subclasses). Eles fornecem um nível intermediário de proteção, permitindo que subclasses tenham acesso aos atributos enquanto ainda os ocultam de outras partes do programa. São representados pelo símbolo `#` no diagrama de classe.
 
+#### Cardinalidades
+As cardinalidades em um diagrama de classes representam a quantidade de instâncias de uma classe que podem estar associadas a uma única instância de outra classe. Elas são cruciais para definir as relações entre os objetos no sistema. 
+
+As cardinalidades são geralmente indicadas nas extremidades das linhas de associação entre as classes. As principais cardinalidades incluem:
+
+- **1**: Indica que uma instância de uma classe está associada a exatamente uma instância de outra classe.
+- **0..1**: Indica que uma instância de uma classe pode estar associada a nenhuma ou, no máximo, uma instância de outra classe.
+- **0..n**: Indica que uma instância de uma classe pode estar associada a nenhuma ou várias instâncias de outra classe.
+- **1..n**: Indica que uma instância de uma classe deve estar associada a pelo menos uma, mas possivelmente várias instâncias de outra classe.
+- **n..m**: Indica um intervalo específico de instâncias que podem estar associadas, onde 'n' e 'm' são valores numéricos específicos.
+
 ## Desenvolvimento
 ### Ferramenta utilizada
 Para o desenvolvimento do Diagrama de Classe, foi utilizada a ferramenta **_[LucidChart](https://wwww.lucidchart.com)_**.
@@ -66,4 +77,5 @@ A ferramenta LucidChart foi fundamental para esse processo, oferecendo uma inter
 | 07/07/2024 | 0.1    | Criação do Documento             | Mateus Franco            | Delziron Braz  |
 | 08/07/2024 | 0.2    | Desenvolvimento do Artefato      | Mateus Franco e Leonardo | Delziron Braz  |
 | 09/07/2024 | 0.3    | Correção do Diagrama             | Leonardo                 | Delziron Braz  |
-| 09/07/2024 | 0.4    | Revisão - Correção da ortografia | Delziron Braz            | À ser revisado |
+| 09/07/2024 | 0.4    | Revisão - Correção da ortografia | Delziron Braz            | Mateus Franco  |
+| 09/07/2024 | 0.5    | Inclusão do detalhamento das Cardinalidades | Mateus Franco | Delziron Braz  |
