@@ -36,5 +36,5 @@ Seguindo o passo a passo fornecido segue o Diagrama de Componetes versão 1 cria
 
 | Data       | Versão | Modificação                   | Autor    | Revisor|
 |------------|--------|-------------------------------|----------| -------|
-| 08/04/2024 | 1.0    | Criação da metodologia | Samuel e Pedro | --------|
-| 09/04/2024 | 1.1    | Criação do Diagrama de Componentes | Samuel e Pedro | --------|
+| 08/04/2024 | 1.0    | Criação da metodologia | Samuel e Pedro | Bruno Henrique|
+| 09/04/2024 | 1.1    | Criação do Diagrama de Componentes | Samuel e Pedro | Bruno Henrique|
