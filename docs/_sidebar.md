@@ -24,11 +24,12 @@
       - [1.5.6 Protótipo](./Base/Prototipo.md)
 
 - **Modelagem**
-  - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
-    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/Modelagem/2.1.ModelagemTradicional.md)
-      - [2.1.1. Notação UML – Diagramas Estáticos](/docs/Modelagem/2.1.1.UMLEstaticos.md)
-      - [2.1.2. Notação UML – Diagramas Dinâmicos](/docs/Modelagem/2.1.2.UMLDinamicos.md)
-    - [2.2. Participações - Modelagem](/docs/Modelagem/2.2.ParticipacoesModelagem.md)
+  - [2. Desenho de Software (Modelagem)](./Modelagem/2.Modelagem.md)
+    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/Modelagem/2.1.ModelagemTradicional.md)
+      - [2.1.1. Notação UML – Diagramas Estáticos](/Modelagem/2.1.1.UMLEstaticos.md)
+      - [2.1.2. Notação UML – Diagramas Dinâmicos](/Modelagem/2.1.2.UMLDinamicos.md)
+        - [Diagrama de Estados](/Modelagem/diagramas/diagrama-estados.md)
+    - [2.2. Participações - Modelagem](/Modelagem/2.2.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
   - [3. Desenho de Software (Padrões de Projeto)](/docs/PadroesDeProjeto/3.PadroesDeProjeto.md)
