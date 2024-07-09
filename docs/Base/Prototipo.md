@@ -49,5 +49,5 @@ Isabela Lobo, estudante de Arquitetura e Urbanismo, expressou sua satisfação c
 | 06/04/2024 | 0.1    | Criação do Documento                          | Delziron Braz de Lima                                                                | Ana Beatriz Wanderley Massuh    |
 | 07/04/2024 | 0.2    | Adição do Protótipo                           | Delziron Braz de Lima, Ana Beatriz Wanderley Massuh, Mateus Vinícius Ferreira Franco | Delziron Braz de Lima           |
 | 07/04/2024 | 0.3    | Refatoração no Texto e Adição da bibliografia | Ana Beatriz Wanderley Massuh                                                         | Mateus Vinícius Ferreira Franco |
-| 08/04/2024 | 1.0    | Adição das entrevistas validando o protótipo  | Delziron Braz de Lima                                                                | Ana Beatriz                     |
-| 09/07/2024 | 1.1    | Ajuste após a entrega do primeiro feedback    | Delziron Braz de Lima                                                                | à ser revisado                  |
+| 08/04/2024 | 1.0    | Adição das entrevistas validando o protótipo  | Delziron Braz de Lima                                                                | Ana Beatriz Wanderley Massuh    |
+| 09/07/2024 | 1.1    | Ajuste após a entrega do primeiro feedback    | Delziron Braz de Lima                                                                | Ana BeatrizWanderley Massuh     |
