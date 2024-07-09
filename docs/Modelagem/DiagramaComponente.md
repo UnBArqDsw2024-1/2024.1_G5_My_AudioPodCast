@@ -18,8 +18,12 @@ Indicar dependências: Use setas ou linhas direcionais para mostrar as dependên
 
 Documentar detalhes: Adicione notas ou descrições aos componentes para explicar suas funcionalidades e responsabilidades.
 
-![Diagrama de Componentes V1]()
-<center/>Diagrama de Componentes V1</center></em>
+
+Seguindo o passo a passo fornecido segue o Diagrama de Componetes versão 1 criado:
+
+
+![Diagrama de Componentes V1](https://github.com/UnBArqDsw2024-1/2024.1_G5_My_AudioPodCast/blob/DiagramaComponentes/docs/images/diagrama-componetes/Diagrama_compenentes.png?raw=true)
+<center/>Diagrama de Componentes V1</center></em>   
 
 
 ## Referências
@@ -33,3 +37,4 @@ Documentar detalhes: Adicione notas ou descrições aos componentes para explica
 | Data       | Versão | Modificação                   | Autor    | Revisor|
 |------------|--------|-------------------------------|----------| -------|
 | 08/04/2024 | 1.0    | Criação da metodologia | Samuel e Pedro | --------|
+| 09/04/2024 | 1.1    | Criação do Diagrama de Componentes | Samuel e Pedro | --------|
