@@ -79,8 +79,6 @@ A partir do Rich Picture, foi possível identificar os atores envolvidos no cen�
 
 
 
-
-
 ## 5. Referências Bibliográficas
 
 > SERRANO, Milene. Arquitetura e Desenho de Software: AULA - Projeto e desenho de software. Disponível em: <https://aprender3.unb.br/course/view.php?id=19535>. Acesso em: 03 abr. de 2024.
