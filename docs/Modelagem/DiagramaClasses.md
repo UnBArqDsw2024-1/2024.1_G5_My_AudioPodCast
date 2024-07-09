@@ -25,7 +25,7 @@ Os componentes principais dos diagramas de classe incluem:
 Além desses componentes, os diagramas de classe também podem incluir interfaces, enumerados e pacotes para organizar e modularizar o sistema.
 
 #### Modificadores de acesso dos atributos
-Os atributos de uma classe podem possuir diferentes níveis de acesso, à depender dos modificadores de acesso que atribuímos à esses atributos. Os principais modificadores de acesso são:
+Os atributos de uma classe podem possuir diferentes níveis de acesso, dependendo dos modificadores de acesso que atribuímos à esses atributos. Os principais modificadores de acesso são:
 
 - **Público (+)**: Atributos públicos podem ser acessados de qualquer parte do programa. Isso significa que não há restrições sobre quem pode visualizar ou modificar esses atributos. No diagrama de classe, são representados pelo símbolo `+` antes do nome do atributo.
 
@@ -39,7 +39,7 @@ Para o desenvolvimento do Diagrama de Classe, foi utilizada a ferramenta **_[Luc
 O LucidChart é uma poderosa ferramenta de diagramação e visualização baseada na nuvem, amplamente utilizada para criar diagramas de fluxo, mapas mentais, organogramas, wireframes, diagramas de rede e diagramas UML, entre outros. 
 
 ### Diagrama de Classe
-Para o objetivo do nosso projeto de uma plataforma de Podcasts, baseado no site **_[Mundo Podcast](https://mundopodcast.com.br/)_**, foi desenvolvido o seguinte diagrama de classe utilizando os **_[requisitos do projeto](../Base/ElicitacaoRequisitos/Elicitacao.md)_** como refência, conforme a Figura 1:
+Para o objetivo do nosso projeto de uma plataforma de Podcasts, baseado no site **_[Mundo Podcast](https://mundopodcast.com.br/)_**, foi desenvolvido o seguinte diagrama de classe utilizando os **_[requisitos do projeto](../Base/ElicitacaoRequisitos/Elicitacao.md)_** como referência, conforme a Figura 1:
 
 <img src="../images/diagramaClasse.png">
 
@@ -61,8 +61,9 @@ A ferramenta LucidChart foi fundamental para esse processo, oferecendo uma inter
 > Fowler, M. (2003). _UML Distilled: A Brief Guide to the Standard Object Modeling Language_. Addison-Wesley Professional.
 
 ## Histórico de Versão
-| Data       | Versão | Modificação      | Autor      | Revisor |
-|------------|--------|------------------|------------|---------|
-| 07/07/2024 | 0.1    | Criação do Documento | Mateus Franco | À ser revisado  |
-| 08/07/2024 | 0.2    | Desenvolvimento do Artefato | Mateus Franco e Leonardo | À ser revisado |
-| 09/07/2024 | 0.3    | Correção do Diagrama | Leonardo | À ser revisado |
+| Data       | Versão | Modificação                      | Autor                    | Revisor        |
+| ---------- | ------ | -------------------------------- | ------------------------ | -------------- |
+| 07/07/2024 | 0.1    | Criação do Documento             | Mateus Franco            | Delziron Braz  |
+| 08/07/2024 | 0.2    | Desenvolvimento do Artefato      | Mateus Franco e Leonardo | Delziron Braz  |
+| 09/07/2024 | 0.3    | Correção do Diagrama             | Leonardo                 | Delziron Braz  |
+| 09/07/2024 | 0.4    | Revisão - Correção da ortografia | Delziron Braz            | À ser revisado |
