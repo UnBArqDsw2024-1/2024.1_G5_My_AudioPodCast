@@ -35,8 +35,8 @@
       - *2.1.2. Notação UML – Diagramas Dinâmicos*
         - [2.1.2.1 Diagrama de Sequência](./Modelagem/2.1.2.1.DiagramaSequencia.md)
         - [2.1.2.2 Diagrama de Atividades](./Modelagem/2.1.2.2.DiagramadeAtividades.md)
-        - [2.1.2.3 Diagrama de Casos de Uso](./Modelagem/diagramas/diagrama-estados.md)
-        - [2.1.2.3 Diagrama de Colaboração](./Modelagem/2.1.3DiagramaDeColoboração.md)
+        - [2.1.2.3 Diagrama de Casos de Uso](./Modelagem/2.1.2.3.DiagramaEstados.md)
+        - [2.1.2.4 Diagrama de Colaboração](./Modelagem/2.1.3DiagramaDeColoboração.md)
     - [2.2. Participações - Modelagem](./Modelagem/participacao.md)
 
 
