@@ -32,8 +32,9 @@
         - [2.1.1.2 Diagrama de Pacotes](./Modelagem/2.1.1.1.DiagramadePacotes.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](/docs/Modelagem/2.1.2.UMLDinamicos.md)
         - [2.1.2.1 Diagrama de Sequência](./Modelagem/2.1.2.1.DiagramaSequencia.md)
-        - [2.1.2.2. Diagrama de Atividades](./Modelagem/2.1.2.2.DiagramadeAtividades.md)
+        - [2.1.2.2 Diagrama de Atividades](./Modelagem/2.1.2.2.DiagramadeAtividades.md)
         - [2.1.2.3. Diagrama de Estados](./Modelagem/2.1.2.3.DiagramaEstados.md)
+        - [Diagrama de Atividades](./Modelagem/diagramas/diagrama-estados.md)
     - [2.2. Participações - Modelagem](./Modelagem/participacao.md)
     - [2.3. Notação UML - Diagrama de Componente](./Modelagem/2.3DiagramaComponente.md)
 
