@@ -21,8 +21,8 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 ### Diagrama de Componentes
 | Responsável    | Contribuição                                        | Significância da Contribuição                                                  |
 | -------------- | --------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Samuel         |                                                     | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
-| Pedro          |                                                     | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| Samuel         |  <p> - Identificar Processos Principais para criação do diagrama. </p> <p> - Descrever Atividades e Ações para criação do diagrama. </p> <p> - Determinar Sequência das Atividades para a criação do diagrama. </p> <p> - Ajudar na criação do diagrama de componentes </p> <p> - Adicionar Bibliografia necessária. </p>                                                    | Excelente |
+| Pedro          |  <p> - Identificar Processos Principais para criação do diagrama. </p> <p> - Descrever Atividades e Ações para criação do diagrama. </p> <p> - Determinar Sequência das Atividades para a criação do diagrama. </p> <p> - Criar em dupla o diagrama de componentes </p> <p> - Adicionar Bibliografia necessária. </p>                                                       | excelente |
 | Bruno Henrique |                                                     | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | Ana Beatriz    | <p> - Revisão </p> <p> - Apontamentos de erros </p> | Excelente                                                                      |
 
@@ -54,7 +54,7 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Responsável | Contribuição | Significância da Contribuição                                                  |
 | ----------- | ------------ | ------------------------------------------------------------------------------ |
 | Bruno       |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
-| Samuel      |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| Samuel      |      <p> - Revisão </p> <p> - Apontamentos de erros </p>         | Excelente |
 | Pedro       |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 
 ### Diagrama de Colaboração
