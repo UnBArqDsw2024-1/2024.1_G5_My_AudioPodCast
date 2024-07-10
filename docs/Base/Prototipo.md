@@ -38,9 +38,9 @@ Isabela Lobo, estudante de Arquitetura e Urbanismo, expressou sua satisfação c
 
 ## 6. Bibliografia
 
-[1] Dias Ricardo.,[Prototipagem de Software](https://medium.com/contexto-delimitado/prototipagem-de-software-7ac07027e6d8)
+> DIAS, Ricardo. Prototipagem de Software. Disponível em: https://medium.com/contexto-delimitado/prototipagem-de-software-7ac07027e6d8. Acesso em: 09 jul. 2024.
 
-[2] Soares João., [Como funciona a prototipação no desenvolvimento de software?](https://www.treinaweb.com.br/blog/como-funciona-a-prototipacao-no-desenvolvimento-de-software#:~:text=A%20prototipa%C3%A7%C3%A3o%20%C3%A9%20um%20processo,e%20gera%20valor%20ao%20cliente.)
+> SOARES, João. Como funciona a prototipação no desenvolvimento de software?. Disponível em: https://www.treinaweb.com.br/blog/como-funciona-a-prototipacao-no-desenvolvimento-de-software#:~:text=A%20prototipa%C3%A7%C3%A3o%20%C3%A9%20um%20processo,e%20gera%20valor%20ao%20cliente.. Acesso em: 09 jul. 2024.
 
 ## 7. Histórico de Versão
 
