@@ -24,12 +24,18 @@
       - [1.5.6 Protótipo](./Base/Prototipo.md)
 
 - **Modelagem**
-  - [2. Desenho de Software (Modelagem)](./Modelagem/2.Modelagem.md)
-    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/Modelagem/2.1.ModelagemTradicional.md)
-      - [2.1.1. Notação UML – Diagramas Estáticos](/Modelagem/2.1.1.UMLEstaticos.md)
-      - [2.1.2. Notação UML – Diagramas Dinâmicos](/Modelagem/2.1.2.UMLDinamicos.md)
-        - [Diagrama de Estados](/Modelagem/diagramas/diagrama-estados.md)
-    - [2.2. Participações - Modelagem](/Modelagem/2.2.ParticipacoesModelagem.md)
+- 
+  - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
+    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/Modelagem/2.1.ModelagemTradicional.md)
+      - [2.1.1. Notação UML – Diagramas Estáticos](/docs/Modelagem/2.1.1.UMLEstaticos.md)
+        - [2.1.1.1 Diagrama de Classes](./Modelagem/DiagramaClasses.md)
+        - [2.1.1.2 Diagrama de Pacotes](./Modelagem/2.1.1.1.DiagramadePacotes.md)
+      - [2.1.2. Notação UML – Diagramas Dinâmicos](/docs/Modelagem/2.1.2.UMLDinamicos.md)
+        - [2.1.2.1 Diagrama de Sequência](./Modelagem/2.1.2.1.DiagramaSequencia.md)
+        - [2.1.2.2. Diagrama de Atividades](./Modelagem/2.1.2.2.DiagramadeAtividades.md)
+    - [2.2. Participações - Modelagem](/docs/Modelagem/2.2.ParticipacoesModelagem.md)
+    - [2.3. Notação UML - Diagrama de Componente](/docs/Modelagem/2.3DiagramaComponente.md)
+
 
 - **Padrões de Projeto**
   - [3. Desenho de Software (Padrões de Projeto)](/docs/PadroesDeProjeto/3.PadroesDeProjeto.md)
@@ -45,4 +51,6 @@
     - [4.3. Participações - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
 
 - **Atas**
-  - [5. 01.04.2024](/docs/Atas/01.04.2024.md)
+  - [01.04.2024](./Atas/01.04.2024.md)
+  - [02.07.2024](./Atas/02.07.2024.md)
+  - [09.07.2024](./Atas/09.07.2024.md)
