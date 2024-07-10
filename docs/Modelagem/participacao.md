@@ -8,7 +8,7 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Responsável    | Contribuição                                                                           | Significância da Contribuição                                                  |
 | -------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Mateus Franco  |                                                                                        | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
-| Leonardo Padre |                                                                                        | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| Leonardo Padre | <p> - Desenvolvimento do diagrama a partir dos requisitos da aplicação </p> <p> - Desenvolvimento/Revisão do artefato </p> | Excelente |
 | Delziron       | <p> - Revisão. </p>  <p> - Ajustes na ortografia. </p> <p> - Sugestão para refinamento | Excelente                                                                      |
 
 ### Diagrama de Pacotes
@@ -48,7 +48,7 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Delziron    | <p> - Identificar Processos Principais para criação do diagrama. </p> <p> - Descrever Atividades e Ações para criação do diagrama. </p> <p> - Determinar Sequência das Atividades para a criação do diagrama. </p> <p> - Desenhar o Diagrama de Atividades </p> <p> - Adicionar Bibliografia necessária. </p> | Excelente                                                                      |
 | Ana Beatriz | <p> - Identificar Processos Principais para criação do diagrama. </p> <p> - Descrever Atividades e Ações para criação do diagrama. </p> <p> - Determinar Sequência das Atividades para a criação do diagrama. </p> <p> - Desenhar o Diagrama de Atividades </p> <p> - Adicionar Legenda dos Símbolos. </p>    | Excelente                                                                      |
-| Leonardo    |                                                                                                                                                                                                                                                                                                               | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| Leonardo Padre | <p> - Revisão </p>                                                                                                                                                                                                                                                             | Excelente |
 
 ### Diagrama de Caso de Uso
 | Responsável | Contribuição | Significância da Contribuição                                                  |
