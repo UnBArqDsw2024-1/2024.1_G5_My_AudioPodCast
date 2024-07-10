@@ -15,7 +15,7 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Responsável  | Contribuição | Significância da Contribuição                                                  |
 | ------------ | ------------ | ------------------------------------------------------------------------------ |
 | Milena Aires |   <p> - Identificar Processos Principais para criação do diagrama de pacotes. </p>  <p> - Determinar Sequência das Atividades para a criação do diagrama. </p> <p> - Confeccionar o diagrama de pacotes </p> <p> - Criar e documentar o artefato do diagrama de pacotes. </p>                    | - Excelente |
-| Caio Lucas   |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| Caio Lucas   |      <p> - Revisão do Artefato do diagrama de pacotes. </p>            | - Excelente |
 | caio Felipe  |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 
 ### Diagrama de Componentes
@@ -40,7 +40,7 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Responsável | Contribuição | Significância da Contribuição                                                  |
 | ----------- | ------------ | ------------------------------------------------------------------------------ |
 | Mateus      |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
-| Caio Lucas  |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| Caio Lucas  |      <p> - Colaboração com o membro Caio Felipe na identificação e mapeamento dos processos principais para criação do Diagrama de Sequência, enfocando os fluxos de sequência dos usuários ouvintes e criadores de conteúdo no sistema.</p> <p> - Participação ativa na descrição detalhada das atividades e ações envolvidas na elaboração do Diagrama de Sequência, garantindo uma representação clara e precisa do comportamento do sistema.</p> <p> - Contribuição na determinação da sequência lógica das atividades para o Diagrama de Sequência, assegurando a correta representação dos fluxos de interação entre os usuários e o sistema.</p> <p> - Revisão crítica e colaboração na criação do Diagrama de Pacotes, aplicando conhecimentos adquiridos em aula para identificar áreas de melhoria e promover a integridade do artefato.</p> <p> - Incorporação de referências bibliográficas pertinentes para embasar teoricamente as decisões de design e implementação nos diagramas criados.</p>        | Excelente |
 | caio Felipe |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 
 ### Diagrama de Atividades
