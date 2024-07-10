@@ -44,5 +44,5 @@
     - [4.3. Participações - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
 
 - **Atas**
-  - [01.04.2024](./docs/Atas/01.04.2024.md)
-  - [02.07.2024](./docs/Atas/02.07.2024.md)
+  - [01.04.2024](./Atas/01.04.2024.md)
+  - [02.07.2024](./Atas/02.07.2024.md)
