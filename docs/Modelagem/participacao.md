@@ -27,11 +27,12 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Ana Beatriz    | <p> - Revisão </p> <p> - Apontamentos de erros </p> | Excelente                                                                      |
 
 ### Diagrama de Implantação
-| Responsável  | Contribuição | Significância da Contribuição                                                  |
-| ------------ | ------------ | ------------------------------------------------------------------------------ |
-| João Gabriel |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
-| Arthur       |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
-| Emerson      |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+
+| Responsável   | Contribuição                                                                 | Significância da Contribuição                                                   |
+| ------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| João Gabriel  | - Identificar Processos Principais para criação do diagrama. <br> - Descrever Atividades e Ações para criação do diagrama. <br> - Determinar Sequência das Atividades para a criação do diagrama. <br> - Desenhar o Diagrama de Atividades. <br> - Adicionar Legenda dos Símbolos. | Excelente |
+| Arthur        | - Contribuição não especificada.                                            | Contribuição não especificada.                                                 |
+| Emerson       | - Contribuição não especificada.                                            | Contribuição não especificada.                                                 |
 
 ## Notação UML - Diagrama Dinâmicos
 
@@ -57,11 +58,11 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Pedro       |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 
 ### Diagrama de Colaboração
-| Responsável  | Contribuição | Significância da Contribuição                                                  |
-| ------------ | ------------ | ------------------------------------------------------------------------------ |
-| João Gabriel |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
-| Arthur       |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
-| Emerson      |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| Responsável   | Contribuição                             | Significância da Contribuição                                                   |
+| ------------- | ---------------------------------------- | ------------------------------------------------------------------------------- |
+| João Gabriel  | Revisor do documento.                    | Excelente                                                                       |
+| Arthur        | Contribuição não especificada.           | Contribuição não especificada.                                                  |
+| Emerson       | Contribuição não especificada.           | Contribuição não especificada.                                                  |
 
 
 | Versão | Data da alteração |                              Alteração                              |                        Responsável                        |
