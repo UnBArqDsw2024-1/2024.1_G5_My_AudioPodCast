@@ -23,14 +23,13 @@
       - [1.5.5 Rich Picture](./Base/RichPicture.md)
       - [1.5.6 Protótipo](./Base/Prototipo.md)
 
-- **Modelagem**
-
   - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/Modelagem/2.1.ModelagemTradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](/docs/Modelagem/2.1.1.UMLEstaticos.md)
         - [2.1.1.1 Diagrama de Classes](./Modelagem/DiagramaClasses.md)
         - [2.1.1.2 Diagrama de Pacotes](./Modelagem/2.1.1.1.DiagramadePacotes.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](/docs/Modelagem/2.1.2.UMLDinamicos.md)
+        - [2.1.2.1 Diagrama de Sequência](./Modelagem/2.1.2.1.DiagramaSequencia.md)
         - [2.1.2.2. Diagrama de Atividades](./Modelagem/2.1.2.2.DiagramadeAtividades.md)
     - [2.2. Participações - Modelagem](/docs/Modelagem/2.2.ParticipacoesModelagem.md)
 

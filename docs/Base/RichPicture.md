@@ -1,11 +1,5 @@
 ## Rich Picture 
 
-## Histórico de Versão
-
-| Data       | Descrição | Autor | Revisor |
-|------------|-----------|-------|---------|
-| 02/04/2024 | Inicializando documentação do Rich Picture | [Caio Lelis](https://github.com/caio-lelis)  |     |
-| 07/04/2024 | Adicionando conteúdo ao Rich Picture | [Caio Lelis](https://github.com/caio-lelis) |     |
 
 
 ## 1. Introdução
@@ -75,6 +69,15 @@
 ## 4. Conclusão
 
 A partir do Rich Picture, foi possível identificar os atores envolvidos no cenário de avaliação de produtos na plataforma Mundo Podcast, bem como as interações entre eles e o sistema. Além disso, foi possível identificar os problemas e oportunidades presentes nesse contexto, o que contribuiu para uma visão mais clara e abrangente do cenário em questão.
+
+## Histórico de Versão
+
+| Data       | Versão | Descrição                              | Autor                                     | Revisor |
+|------------|--------|----------------------------------------|-------------------------------------------|---------|
+| 02/04/2024 | 1.0    | Inicializando documentação do Rich Picture | [Caio Lelis](https://github.com/caio-lelis) |         |
+| 07/04/2024 | 1.1    | Adicionando conteúdo ao Rich Picture     | [Caio Lelis](https://github.com/caio-lelis) |         |
+
+
 
 ## 5. Referências Bibliográficas
 
