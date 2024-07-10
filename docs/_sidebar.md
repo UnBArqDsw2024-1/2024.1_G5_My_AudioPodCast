@@ -30,13 +30,14 @@
       - [2.1.1. Notação UML – Diagramas Estáticos](/docs/Modelagem/2.1.1.UMLEstaticos.md)
         - [2.1.1.1 Diagrama de Classes](./Modelagem/DiagramaClasses.md)
         - [2.1.1.2 Diagrama de Pacotes](./Modelagem/2.1.1.1.DiagramadePacotes.md)
+        - [2.1.1.3 Diagrama de Componentes](./Modelagem/2.3.DiagramaComponente.md)
+        - [2.1.1.2 Diagrama de Implementação](./Modelagem/2.1.1.1.DiagramadeImplementacao.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](/docs/Modelagem/2.1.2.UMLDinamicos.md)
         - [2.1.2.1 Diagrama de Sequência](./Modelagem/2.1.2.1.DiagramaSequencia.md)
         - [2.1.2.2 Diagrama de Atividades](./Modelagem/2.1.2.2.DiagramadeAtividades.md)
-        - [2.1.2.3. Diagrama de Estados](./Modelagem/2.1.2.3.DiagramaEstados.md)
-        - [Diagrama de Atividades](./Modelagem/diagramas/diagrama-estados.md)
+        - [2.1.2.3 Diagrama de Casos de Uso](./Modelagem/diagramas/diagrama-estados.md)
+        - [2.1.2.3 Diagrama de Colaboração](./Modelagem/2.1.3DiagramaDeColoboração.md)
     - [2.2. Participações - Modelagem](./Modelagem/participacao.md)
-    - [2.3. Notação UML - Diagrama de Componente](./Modelagem/2.3DiagramaComponente.md)
 
 
 - **Padrões de Projeto**
