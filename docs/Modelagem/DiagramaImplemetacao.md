@@ -64,5 +64,6 @@ A criação do Diagrama de Implementação foi extremamente útil para entender 
 
 | Data       | Versão | Modificação                 | Autor              | Revisor        |
 | ---------- | ------ | --------------------------- | ------------------ | -------------- |
-| 07/07/2024 | 0.1    | Criação do Documento        | João Gabriel Elvas | À ser revisado |
+| 07/07/2024 | 0.1    | Criação do Documento        | João Gabriel Elvas | Arthur D'Assumpção |
 | 09/07/2024 | 0.2    | Desenvolvimento do Artefato | João Gabriel Elvas | À ser revisado |
+
