@@ -14,7 +14,7 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 ### Diagrama de Pacotes
 | Responsável  | Contribuição | Significância da Contribuição                                                  |
 | ------------ | ------------ | ------------------------------------------------------------------------------ |
-| Milena Aires |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| Milena Aires |   <p> - Identificar Processos Principais para criação do diagrama de pacotes. </p>  <p> - Determinar Sequência das Atividades para a criação do diagrama. </p> <p> - Confeccionar o diagrama de pacotes </p> <p> - Criar e documentar o artefato do diagrama de pacotes. </p>                    | - Excelente |
 | Caio Lucas   |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | caio Felipe  |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 
@@ -56,6 +56,7 @@ Breve relato sobre as participações/contribuições de cada membro à entrega.
 | Bruno       |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | Samuel      |      <p> - Revisão </p> <p> - Apontamentos de erros </p>         | Excelente |
 | Pedro       |              | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+| Milena      |         <p> - Revisão </p> <p> - Resolução de conflito </p>      | Excelente |
 
 ### Diagrama de Colaboração
 | Responsável   | Contribuição                             | Significância da Contribuição                                                   |
