@@ -1,0 +1,15 @@
+from sqlalchemy import Column, Integer, String
+from sqlalchemy.orm import relationship
+from app.database import Base
+
+class Episode(Base):
+    __tablename__ = "episodes"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    title = Column(String)
+    description = Column(String)
+    createDate = Column(String)  # Consider using DateTime if appropriate
+    duration = Column(Integer)
+    subject = Column(String)
+    
+    ratings = relationship("Rating", back_populates="episode")
