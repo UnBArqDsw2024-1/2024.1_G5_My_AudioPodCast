@@ -1,5 +1,7 @@
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.orm import relationship
+from permission import UserPermission
+from enum import Enum
 from app.database import Base
 
 class User(Base):
@@ -10,6 +12,7 @@ class User(Base):
     age = Column(Integer)
     email = Column(String, unique=True, index=True)
     password = Column(String)
+    permission = Column(Enum(UserPermission), index=True)
     
     playlists = relationship("Playlist", back_populates="owner")
     ratings = relationship("Rating", back_populates="user")
