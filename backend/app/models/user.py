@@ -1,7 +1,6 @@
-from sqlalchemy import Column, Integer, String
+from sqlalchemy import Column, Integer, String, Enum as SqlEnum
 from sqlalchemy.orm import relationship
-from backend.app.enum.user_permission_enum import UserPermission
-from enum import Enum
+from app.enum.user_permission_enum import UserPermission
 from app.database import Base
 
 class User(Base):
@@ -12,7 +11,7 @@ class User(Base):
     age = Column(Integer)
     email = Column(String, unique=True, index=True)
     password = Column(String)
-    permission = Column(Enum(UserPermission), index=True)
+    permission = Column(SqlEnum(UserPermission), index=True)
     
     playlists = relationship("Playlist", back_populates="owner")
     ratings = relationship("Rating", back_populates="user")
