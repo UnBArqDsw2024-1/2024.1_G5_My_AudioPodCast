@@ -1,6 +1,6 @@
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.orm import relationship
-from permission import UserPermission
+from backend.app.enum.user_permission_enum import UserPermission
 from enum import Enum
 from app.database import Base
 
