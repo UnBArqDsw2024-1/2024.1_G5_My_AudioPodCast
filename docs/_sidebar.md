@@ -15,7 +15,7 @@
       - [1.4.2 Questionário](./Base/ElicitacaoRequisitos/Questionario.md)
       - [1.4.3 Personas](./Base/ElicitacaoRequisitos/Personas.md)
       - [1.4.4 Priorização](./Base/ElicitacaoRequisitos/Priorizacao.md)
-    - [1.5. Design Sprint](./Base/DesignSprint.md)  
+    - [1.5. Design Sprint](./Base/DesignSprint.md)
       - [1.5.1 Léxicos](./Base/Lexicos.md)
       - [1.5.2 Glossário](./Base/Glossario.md)
       - [1.5.3 Brainstorm](./Base/Brainstorming.md)
@@ -24,30 +24,32 @@
       - [1.5.6 Protótipo](./Base/Prototipo.md)
 
 - **Modelagem**
-- 
-  - *2. Desenho de Software (Modelagem)*
-    - *2.1. Módulo Projeto Orientado a Abordagens Tradicionais*
-      - *2.1.1. Notação UML – Diagramas Estáticos*
+- - _2. Desenho de Software (Modelagem)_
+    - _2.1. Módulo Projeto Orientado a Abordagens Tradicionais_
+      - _2.1.1. Notação UML – Diagramas Estáticos_
         - [2.1.1.1 Diagrama de Pacotes](./Modelagem/2.1.1.1.DiagramadePacotes.md)
         - [2.1.1.2 Diagrama de Classes](./Modelagem/2.1.1.2.DiagramaClasses.md)
         - [2.1.1.3 Diagrama de Implantação](./Modelagem/2.1.1.3.DiagramaImplemetacao.md)
         - [2.1.1.4 Diagrama de Componentes](./Modelagem/2.1.1.4.DiagramaComponente.md)
-      - *2.1.2. Notação UML – Diagramas Dinâmicos*
+      - _2.1.2. Notação UML – Diagramas Dinâmicos_
         - [2.1.2.1 Diagrama de Sequência](./Modelagem/2.1.2.1.DiagramaSequencia.md)
         - [2.1.2.2 Diagrama de Atividades](./Modelagem/2.1.2.2.DiagramadeAtividades.md)
         - [2.1.2.3 Diagrama de Casos de Uso](./Modelagem/2.1.2.3.DiagramaEstados.md)
         - [2.1.2.4 Diagrama de Colaboração](./Modelagem/2.1.3DiagramaDeColoboração.md)
     - [2.2. Participações - Modelagem](./Modelagem/participacao.md)
 
-
 - **Padrões de Projeto**
+
   - [3. Desenho de Software (Padrões de Projeto)](./PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [3.1. Módulo Padrões de Projeto GRASPs](./PadroesDeProjeto/3.1.GoFsCriacionais.md)
     - [3.2. Módulo Padrões de Projeto GoFs](./PadroesDeProjeto/3.2.GoFsEstruturais.md)
+      - [3.2.1 Decorator](./PadroesDeProjeto/3.2.GoFsEstruturaisDecorator.md)
+      - [3.2.1 Facade](./PadroesDeProjeto/3.2.GoFsEstruturaisFacade.md)
     - [3.3. Módulo Padrões de Projeto Extras](./PadroesDeProjeto/3.3.GoFsComportamentais.md)
     - [3.4. Participações - Padrões de Projeto](./PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
+
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/docs/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/docs/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
     - [4.2. Módulo Reutilização de Software](/docs/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
