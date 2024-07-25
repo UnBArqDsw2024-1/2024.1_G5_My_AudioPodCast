@@ -1,7 +1,7 @@
 from sqlalchemy import Column, Integer, String, Enum as SqlEnum
 from sqlalchemy.orm import relationship
 from app.enum.user_permission_enum import UserPermission
-from app.database import Base
+from ..database import Base
 
 class User(Base):
     __tablename__ = "users"
