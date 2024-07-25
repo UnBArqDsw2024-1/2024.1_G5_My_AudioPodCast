@@ -2,8 +2,6 @@
 
 ```python
 
-
-
 from abc import ABC, abstractmethod
 
 class UserPermissionStrategy(ABC):
@@ -39,11 +37,4 @@ class User:
         if self.permission_strategy:
             return self.permission_strategy.access_resources()
         return "Permissão não definida."
-
-
-
-
-
-
-
-
+```
