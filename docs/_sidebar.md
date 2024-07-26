@@ -40,9 +40,9 @@
 
 - **Padrões de Projeto**
 
-  - [3. Desenho de Software (Padrões de Projeto)](./PadroesDeProjeto/3.PadroesDeProjeto.md)
+  - _3. Desenho de Software (Padrões de Projeto)_
     - [3.1. Módulo Padrões de Projeto GoFs Criacionais](./PadroesDeProjeto/3.1.GoFsCriacionais.md)
-    - [3.2. Módulo Padrões de Projeto GoFs Estruturais]()
+    - _3.2. Módulo Padrões de Projeto GoFs Estruturais_
         - [3.2.1. Decorator](./PadroesDeProjeto/3.2.1.GoFsEstruturaisDecorator.md)
         - [3.2.2. Facade](./PadroesDeProjeto/3.2.2.GoFsEstruturaisFacade.md)
     - [3.3. Módulo Padrões de Projeto GoFs Comportamentais](./PadroesDeProjeto/3.3.GoFsComportamentais.md)
