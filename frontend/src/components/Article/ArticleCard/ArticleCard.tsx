@@ -3,9 +3,9 @@ import { IArticle } from "../../../utils/article-helper";
 
 const ArticleCard = (article: IArticle) => {
   return (
-    <div className="w-[300px] lg:w-full h-full md:h-[300px] border border-gray-300 border-solid rounded-md flex flex-col lg:flex-row justify-start items-center gap-5 shadow-md transform transition-transform duration-300 hover:scale-105 cursor-pointer">
+    <div className="w-[300px] lg:w-full h-full md:min-h-[300px] border border-gray-300 border-solid rounded-md flex flex-col lg:flex-row justify-start items-center gap-5 shadow-md transform transition-transform duration-300 hover:scale-105 cursor-pointer">
         <img
-            className="w-full lg:w-[300px] h-full object-cover" 
+            className="w-full lg:w-[300px] h-full min-h-[300px] object-cover" 
             src={article.img.src} 
             alt={article.img.alt} 
         />
@@ -27,3 +27,4 @@ const ArticleCard = (article: IArticle) => {
 }
 
 export default ArticleCard
+
