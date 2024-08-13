@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.orm import relationship
 from ..database import Base
+from .category import podcast_categories  # Import the association table
 
 class Podcast(Base):
     __tablename__ = "podcasts"
@@ -10,14 +11,10 @@ class Podcast(Base):
     description = Column(String)
     rating = Column(Integer)
     
-    categories = relationship("Category", secondary="podcast_categories", back_populates="podcasts")
+    categories = relationship("Category", secondary=podcast_categories, back_populates="podcasts")
     ratings = relationship("Rating", back_populates="podcast")
     hosts = relationship("Host", back_populates="podcasts")
-    
-    
-    
-    ### GoFs Estruturais Facade
-    
+
     def access(self):
         print("Accessing podcast...")
 
@@ -26,6 +23,3 @@ class Podcast(Base):
 
     def create(self):
         print("Adding new podcast...")
-    
-        
-        
