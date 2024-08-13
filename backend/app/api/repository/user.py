@@ -14,3 +14,9 @@ def read_all_user(db: Session):
 
 def read_user(db: Session, user_id: int):
     return db.query(User).filter(User.id == user_id).first()
+
+def update_user(db: Session, user_id: int, user: UserCreate):
+    db_user = db.query(User).filter(User.id == user_id)
+    db_user.update(user.dict())
+    db.commit()
+    return db_user.first()
