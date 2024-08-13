@@ -11,3 +11,6 @@ def create_user(db: Session, user: UserCreate):
 
 def read_all_user(db: Session):
     return db.query(User).all()
+
+def read_user(db: Session, user_id: int):
+    return db.query(User).filter(User.id == user_id).first()
