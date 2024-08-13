@@ -8,3 +8,6 @@ def create_user(db: Session, user: UserCreate):
     db.commit()
     db.refresh(db_user)
     return db_user
+
+def read_all_user(db: Session):
+    return db.query(User).all()
