@@ -1,47 +1,24 @@
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay, Pagination, Navigation } from "swiper/modules";
-
-import "swiper/css";
-import "swiper/css/pagination";
-import "swiper/css/navigation";
-import { ISlide, slides } from "../../utils/hero-helper";
-
-const Hero = () => {
+const ShowBanner = () => {
+  const ShowBannerData = {
+    capaImg: "https://mundopodcast.com.br/wp-content/uploads/2021/03/casos.jpg",
+    title: "Casos e Causos",
+    description: "O Causos e Causas é uma crí­tica a verdade absoluta, a crí­tica se esgueira entrelinhas, escorre na sutileza das histórias em um belo mosaico em áudio. Histórias baseadas em fatos (nem sempre) reais."
+  }
   return (
-    <section id="ShowBanner" className="hidden md:block w-full h-full relative">
-      <div className="relative w-full h-full">
-        <div className="z-10 absolute inset-0 flex flex-col justify-center items-center text-center gap-3">
-          <h1 className="text-4xl md:text-5xl font-bold">Mundo Podcast</h1>
-          <p className="text-md md:text-lg font-medium">
-            Sua principal plataforma para ouvir podcast e ler artigos
-          </p>
-          <button className="bg-blue-600 hover:bg-blue-700 py-3 px-4 md:py-4 md:px-5 font-bold text-white rounded-md">
-            VER PODCAST
+    <section id="ShowBanner" className="hidden md:flex justify-center w-full h-full min-h-128 relative bg-[url('https://mundopodcast.com.br/wp-content/uploads/2018/03/show-bb.jpg')]">
+      <div className="relative w-full h-full flex py-24 flex justify-center gap-24 max-w-screen-xl">
+        <img src={ShowBannerData.capaImg} className="relative w-96 h-96" alt="capa" />
+        <div className="z-10 inset-0 flex flex-col justify-center items-start text-center gap-3">
+          <h1 className="text-white text-4xl md:text-5xl font-bold">{ShowBannerData.title}</h1>
+          <p className="text-white text-start text-md md:text-lg font-medium">
+            {ShowBannerData.description}</p>
+          <button className="border-white border-2 py-3 px-4 md:py-4 md:px-5 font-bold text-white rounded-md">
+            Se inscrever
           </button>
-        </div>
-
-        <div className="bg-white opacity-40 h-full">
-          <Swiper
-            spaceBetween={50}
-            slidesPerView={1}
-            loop={true}
-            centeredSlides={true}
-            autoplay={{
-              delay: 3500,
-              disableOnInteraction: true,
-            }}
-            modules={[Autoplay, Pagination, Navigation]}
-          >
-            {slides.map((slide: ISlide, index: number) => (
-              <SwiperSlide key={index}>
-                <img className="w-full h-full object-cover" src={slide.src} alt={slide.alt} />
-              </SwiperSlide>
-            ))}
-          </Swiper>
         </div>
       </div>
     </section>
   );
 };
 
-export default Hero;
+export default ShowBanner;
