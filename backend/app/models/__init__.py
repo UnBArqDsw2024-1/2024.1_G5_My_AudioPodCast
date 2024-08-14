@@ -5,3 +5,4 @@ from .playlist import Playlist
 from .podcast import Podcast
 from .rating import Rating
 from .user import User
+from .article import Article
