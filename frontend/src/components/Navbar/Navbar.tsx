@@ -20,6 +20,7 @@ const Navbar = () => {
                     <Link to="podcast" spy={true} smooth={true} duration={500} className='hover:text-brightGreen transition-all cursor-pointer'>Podcast</Link>
                     <Link to="article" spy={true} smooth={true} duration={500} className='hover:text-brightGreen transition-all cursor-pointer'>Artigos</Link>
                     <Link to="tutorial" spy={true} smooth={true} duration={500} className='hover:text-brightGreen transition-all cursor-pointer'>Tutoriais</Link>
+                    <Link to="about" spy={true} smooth={true} duration={500} className='hover:text-brightGreen transition-all cursor-pointer'>Sobre</Link>
                 </nav>
 
                 <div className='flex md:hidden' onClick={handleChange}>
