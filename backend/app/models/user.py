@@ -16,6 +16,7 @@ class User(Base):
     
     playlists = relationship("Playlist", back_populates="owner")
     ratings = relationship("Rating", back_populates="user")
+    host = relationship("Host", back_populates="user")
 
     def set_permission_strategy(self, strategy: UserPermissionStrategy):
         self.permission_strategy = strategy

@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, ForeignKey
+from sqlalchemy import Column, Integer, String, ForeignKey, DateTime
 from sqlalchemy.orm import relationship
 from ..database import Base
 
@@ -8,7 +8,7 @@ class Rating(Base):
     id = Column(Integer, primary_key=True, index=True)
     rating = Column(Integer)
     comment = Column(String)
-    date = Column(String)  # Consider using DateTime if appropriate
+    date = Column(DateTime)  # Consider using DateTime if appropriate
     
     podcast_id = Column(Integer, ForeignKey("podcasts.id"))
     episode_id = Column(Integer, ForeignKey("episodes.id"))
