@@ -4,7 +4,7 @@ from app.api.service.user import create_user, read_all_user, read_user, update_u
 from app.api.schemas.user import UserCreate, UserInDB
 from app.database import get_db
 
-router = APIRouter()
+router = APIRouter(tags=["User"])
 
 @router.post("/users", response_model=UserInDB)
 def create_user_endpoint(user: UserCreate, db: Session = Depends(get_db)):

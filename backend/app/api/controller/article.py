@@ -4,7 +4,7 @@ from app.database import get_db
 from app.api.service.article import create_article, read_all_article, read_article, update_article
 from app.api.schemas.article import ArticleCreate
 
-router = APIRouter()
+router = APIRouter(tags=["Article"])
 
 @router.get("/articles/get")
 def read_all_article_endpoint(db: Session = Depends(get_db)):
