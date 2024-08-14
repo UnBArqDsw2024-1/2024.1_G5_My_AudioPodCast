@@ -1,9 +1,12 @@
 from sqlalchemy.orm import Session
 from app.models import Article
 from app.api.schemas.article import ArticleCreate
+from datetime import datetime
 
 def create_article(db: Session, article: ArticleCreate):
-    db_article = Article(title=article.title, content=article.content, type_article=article.type_article, create_at=article.create_at)
+    create_at_date = datetime.strptime(article.create_at, "%Y-%m-%d").date()
+
+    db_article = Article(title=article.title, content=article.content, type_article=article.type_article, create_at=create_at_date)
     db.add(db_article)
     db.commit()
     db.refresh(db_article)
