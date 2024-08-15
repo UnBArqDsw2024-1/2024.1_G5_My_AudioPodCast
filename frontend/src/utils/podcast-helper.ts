@@ -6,6 +6,7 @@ export interface IPodcast {
     title: string;
     author: string;
     description: string;
+    audioSrc: string;
 }
 
 export const podcasts: IPodcast[] = [
@@ -17,6 +18,7 @@ export const podcasts: IPodcast[] = [
         title: 'The Future of Tech',
         author: 'Jane Doe',
         description: 'In this podcast, we explore the latest trends in technology and what the future holds.',
+        audioSrc: 'https://open.spotify.com/embed/episode/your_spotify_episode_id_1',
     },
     {
         img: {
@@ -26,6 +28,7 @@ export const podcasts: IPodcast[] = [
         title: 'Mindful Living',
         author: 'John Smith',
         description: 'Join us as we discuss techniques for living a more mindful and balanced life.',
+        audioSrc: 'https://open.spotify.com/embed/episode/your_spotify_episode_id_2',
     },
     {
         img: {
@@ -35,6 +38,7 @@ export const podcasts: IPodcast[] = [
         title: 'History Uncovered',
         author: 'Alice Johnson',
         description: 'Delve into the lesser-known stories from history that shaped the world we live in today.',
+        audioSrc: 'https://open.spotify.com/embed/episode/your_spotify_episode_id_3',
     },
     {
         img: {
@@ -44,6 +48,7 @@ export const podcasts: IPodcast[] = [
         title: 'Creative Minds',
         author: 'Michael Brown',
         description: 'A podcast about the creative process, featuring interviews with artists and writers.',
+        audioSrc: 'https://open.spotify.com/embed/episode/your_spotify_episode_id_4',
     },
     {
         img: {
@@ -53,6 +58,7 @@ export const podcasts: IPodcast[] = [
         title: 'Healthy Habits',
         author: 'Emily Davis',
         description: 'Tips and advice on developing healthy habits that can improve your daily life.',
+        audioSrc: 'https://open.spotify.com/embed/episode/your_spotify_episode_id_5',    
     },
     {
         img: {
@@ -62,5 +68,6 @@ export const podcasts: IPodcast[] = [
         title: 'Science Explained',
         author: 'Robert Wilson',
         description: 'Breaking down complex scientific concepts into easy-to-understand explanations.',
+        audioSrc: 'https://open.spotify.com/embed/episode/your_spotify_episode_id_6',    
     },
 ];
