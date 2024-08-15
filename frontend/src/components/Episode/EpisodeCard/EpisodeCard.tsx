@@ -15,8 +15,8 @@ const EpisodeCard = (episode: IEpisode) => {
         </h3>
 
         <div className="flex flex-col justify-start items-start gap-1">
-          <h6 className="text-black font-semibold">
-            {episode.author}
+          <h6 className="text-black">
+            Author: <span className=" font-semibold">{episode.author}</span>
           </h6>
 
           <p className="text-black text-sm font-medium text-start">
