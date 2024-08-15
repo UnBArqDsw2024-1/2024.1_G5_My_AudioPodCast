@@ -6,7 +6,7 @@ export interface IPodcast {
     title: string;
     author: string;
     description: string;
-    audioSrc: string; // Nova propriedade para o link do áudio
+    audioSrc: string;
 }
 
 export const podcasts: IPodcast[] = [
@@ -18,7 +18,7 @@ export const podcasts: IPodcast[] = [
         title: 'The Future of Tech',
         author: 'Jane Doe',
         description: 'In this podcast, we explore the latest trends in technology and what the future holds.',
-        audioSrc: 'https://youtu.be/We83cSrCdfY',
+        audioSrc: 'https://open.spotify.com/embed/episode/your_spotify_episode_id_1',
     },
     {
         img: {
