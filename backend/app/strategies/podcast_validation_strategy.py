@@ -1,4 +1,4 @@
-from strategies.validation_strategy import ValidationStrategy
+from app.strategies.validation_strategy import ValidationStrategy
 from app.api.schemas.podcast import PodcastCreate
 
 class BasicValidationStrategy(ValidationStrategy):
