@@ -5,17 +5,14 @@ from sqlalchemy.orm import sessionmaker
 from app.database import Base, get_db
 from app.api.repository.article import create_article, read_all_article, read_article, update_article
 from app.api.schemas.article import ArticleCreate
-from fastapi.testclient import TestClient
 from app.main import app
 
-# Configuração do banco de dados para os testes
 SQLALCHEMY_DATABASE_URL = "sqlite:///./test.db"
 engine = create_engine(SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False})
 TestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 Base.metadata.create_all(bind=engine)
 
-# Fixture para fornecer uma sessão de banco de dados para os testes
 @pytest.fixture(scope="function")
 def db():
     session = TestingSessionLocal()
@@ -24,7 +21,6 @@ def db():
     finally:
         session.close()
 
-# Substitui a dependência do banco de dados no app
 def override_get_db():
     try:
         db = TestingSessionLocal()
@@ -34,7 +30,6 @@ def override_get_db():
 
 app.dependency_overrides[get_db] = override_get_db
 
-# Testes para a entidade Article
 def test_create_article(db):
     article_data = ArticleCreate(
         title="Test Article",
@@ -61,7 +56,7 @@ def test_update_article(db):
         title="Updated Article",
         content="Updated Content",
         type_article="Blog",
-        create_at="2024-01-02"  # Isso deve ser uma string, mas será convertida na função
+        create_at="2024-01-02"
     )
     updated_article = update_article(db=db, article_id=1, article=article_data)
 

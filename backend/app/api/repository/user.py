@@ -7,7 +7,6 @@ from app.enum.user_permission_enum import UserPermission
 from app.api.schemas.user import UserCreate
 
 def create_user(db: Session, user: UserCreate):
-    # Utilização do GoF Criacional Builder definido para o projeto:
     user_builder = getAppropriateUserBuilder(user=user).build()
 
     db_user = User(name=user_builder.name, age=user_builder.age, email=user_builder.email, password=user_builder.password, permission=user_builder.permission)

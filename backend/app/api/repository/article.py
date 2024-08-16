@@ -21,7 +21,6 @@ def read_article(db: Session, article_id: int):
 def update_article(db: Session, article_id: int, article: ArticleCreate):
     db_article = db.query(Article).filter(Article.id == article_id)
     
-    # Convertendo o campo `create_at` de string para datetime.date
     article_data = article.dict()
     article_data['create_at'] = datetime.strptime(article_data['create_at'], "%Y-%m-%d").date()
 
