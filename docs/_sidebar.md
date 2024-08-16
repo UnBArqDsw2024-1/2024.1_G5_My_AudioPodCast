@@ -54,9 +54,11 @@
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/docs/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/docs/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
       - [4.1.1 Visão De Dados](./ArquiteturaReutilizacao/4.1.1.VisaoDeDados.md)
-      - [4.1.2 DAS](docs/ArquiteturaReutilizacao/4.1.2PadroesArquiteturais.md)
+      - [4.1.2 DAS](/docs/ArquiteturaReutilizacao/4.1.2PadroesArquiteturais.md)
     - [4.2. Módulo Reutilização de Software](/docs/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
+       - [4.2.1 Arquitetura - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.4%20Arquitetura.md)
     - [4.3. Participações - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
+
 
 - **Atas**
   - [01.04.2024](./Atas/01.04.2024.md)
