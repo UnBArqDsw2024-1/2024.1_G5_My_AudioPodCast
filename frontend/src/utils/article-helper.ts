@@ -1,4 +1,5 @@
 export interface IArticle {
+    id: number;
     img: {
         alt: string;
         src: string;
@@ -11,6 +12,7 @@ export interface IArticle {
 
 export const articles: IArticle[] = [
     {
+        id: 1,
         img: {
             alt: 'article 01',
             src: '/article/article_01.jpg'
@@ -21,6 +23,7 @@ export const articles: IArticle[] = [
         description: 'This article explores how artificial intelligence is becoming an integral part of our everyday lives.',
     },
     {
+        id: 2,
         img: {
             alt: 'article 02',
             src: '/article/article_02.jpg'
@@ -31,6 +34,7 @@ export const articles: IArticle[] = [
         description: 'An in-depth look at the latest discoveries from the uncharted territories of the deep ocean.',
     },
     {
+        id: 3,
         img: {
             alt: 'article 03',
             src: '/article/article_03.jpg'
@@ -41,6 +45,7 @@ export const articles: IArticle[] = [
         description: 'A comprehensive guide to adopting a more sustainable and eco-friendly lifestyle.',
     },
     {
+        id: 4,
         img: {
             alt: 'article 04',
             src: '/article/article_04.jpg'
@@ -51,6 +56,7 @@ export const articles: IArticle[] = [
         description: 'An article discussing the advancements in space travel and what the future might hold for humanity beyond Earth.',
     },
     {
+        id: 5,
         img: {
             alt: 'article 05',
             src: '/article/article_05.jpg'
@@ -61,6 +67,7 @@ export const articles: IArticle[] = [
         description: 'An analysis of how social media is shaping our society and influencing personal relationships.',
     },
     {
+        id: 6,
         img: {
             alt: 'article 06',
             src: '/article/article_06.jpg'

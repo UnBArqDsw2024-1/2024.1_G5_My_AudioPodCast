@@ -6,6 +6,8 @@ import SignIn from "./pages/SignIn/SignIn";
 import Show from "./pages/Show/Show";
 import Podcasts from "./pages/Podcasts/Podcasts";
 import PodcastDetail from "./components/Podcast/PodcastDetail/PodcastDetail";
+import SingleArticle from "./pages/Articles/SingleArticle/SingleArticle";
+import Articles from "./pages/Articles/Articles";
 
 const App = () => {
   return (
@@ -17,6 +19,8 @@ const App = () => {
         <Route path="/show/:showName" element={<Show />} />
         <Route path="/sign-in" element={<SignIn />} />
         <Route path="/podcast/:id" element={<PodcastDetail />} />
+        <Route path="/articles" element={<Articles />} />
+        <Route path="/article/:id" element={<SingleArticle />} />
       </Routes>
       <Footer />
     </>

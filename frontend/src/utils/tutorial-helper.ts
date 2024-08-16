@@ -1,4 +1,5 @@
 export interface ITutorial {
+    id: number;
     img: {
         alt: string;
         src: string;
@@ -11,6 +12,7 @@ export interface ITutorial {
 
 export const tutorials: ITutorial[] = [
     {
+        id: 1,
         img: {
             alt: 'tutorial 01',
             src: '/tutorial/tutorial_01.jpeg'
@@ -21,6 +23,7 @@ export const tutorials: ITutorial[] = [
         description: 'This tutorial walks you through the essentials of starting a podcast, from choosing the right equipment to recording and editing your first episode. Perfect for beginners who want to dive into the world of podcasting.',
     },
     {
+        id: 2,
         img: {
             alt: 'tutorial 02',
             src: '/tutorial/tutorial_02.jpeg'
@@ -31,6 +34,7 @@ export const tutorials: ITutorial[] = [
         description: 'Learn effective strategies to promote your podcast and grow your audience. This tutorial covers social media marketing, networking with other podcasters, and using SEO to increase your visibility on podcast platforms.',
     },
     {
+        id: 3,
         img: {
             alt: 'tutorial 03',
             src: '/tutorial/tutorial_03.png'
@@ -41,6 +45,7 @@ export const tutorials: ITutorial[] = [
         description: 'In this tutorial, you will explore various ways to monetize your podcast, including sponsorships, affiliate marketing, and listener support platforms. Discover the best methods to turn your passion into profit.',
     },
     {
+        id: 4,
         img: {
             alt: 'tutorial 04',
             src: '/tutorial/tutorial_04.png'
