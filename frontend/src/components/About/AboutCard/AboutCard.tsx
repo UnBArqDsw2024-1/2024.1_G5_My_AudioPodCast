@@ -1,4 +1,3 @@
-import React from 'react';
 import { IGroupMember } from '../../../utils/about-helper';
 
 const GroupMemberCard = ({ name, github, img }: IGroupMember) => {
@@ -11,7 +10,7 @@ const GroupMemberCard = ({ name, github, img }: IGroupMember) => {
             />
             <div className="flex flex-col justify-start items-center gap-2 p-5">
                 <h3 className="text-black font-semibold text-xl">{name}</h3>
-                <a 
+                <a
                     href={github}
                     target="_blank"
                     rel="noopener noreferrer"
