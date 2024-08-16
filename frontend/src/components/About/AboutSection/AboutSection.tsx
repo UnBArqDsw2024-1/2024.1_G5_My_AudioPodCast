@@ -1,4 +1,3 @@
-import { Link } from "../../../../node_modules/react-router-dom/dist/index";
 import GroupGrid from "../AboutGrid/AboutGrid";
 
 const AboutSection = () => {
@@ -10,15 +9,6 @@ const AboutSection = () => {
       </div>
 
       <GroupGrid />
-
-      <div className="w-full py-5 flex justify-center items-center">
-        <Link
-          to="/group"
-          className="bg-blue-600 hover:bg-blue-700 py-4 px-5 font-bold text-white rounded-md w-[200px] text-center"
-        >
-          Ver mais
-        </Link>
-      </div>
     </section>
   );
 };
