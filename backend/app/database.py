@@ -13,3 +13,10 @@ def init_db():
     from .models import category, episode, host, playlist, podcast, rating, user 
 
     Base.metadata.create_all(bind=engine)
+
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()

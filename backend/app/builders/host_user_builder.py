@@ -1,8 +1,15 @@
-from backend.app.enum.user_permission_enum import UserPermission
-from backend.app.builders.user_builder import UserBuilder
-from backend.app.strategies.host_user_permission_strategy import HostPermissionStrategy
+from app.enum.user_permission_enum import UserPermission
+from app.builders.user_builder import UserBuilder
 
 class HostUserBuilder(UserBuilder):
-     def build(self):
-        self.user.permission = HostPermissionStrategy()
+      def __init__(self):
+        super().__init__()
+        self.user = None  # Inicializa o atributo user
+
+      def set_user(self, user):
+        self.user = user
+        return self
+     
+      def build(self):
+        self.user.permission = UserPermission.HOST_PERMISSION
         return self.user

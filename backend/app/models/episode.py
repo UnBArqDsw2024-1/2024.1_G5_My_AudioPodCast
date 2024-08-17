@@ -14,4 +14,4 @@ class Episode(Base):
     podcast_id = Column(Integer, ForeignKey("podcasts.id"))
 
     ratings = relationship("Rating", back_populates="episode")
-    podcast = relationship("Podcast", back_populates="episode")
+    podcast = relationship("Podcast", back_populates="episodes")
