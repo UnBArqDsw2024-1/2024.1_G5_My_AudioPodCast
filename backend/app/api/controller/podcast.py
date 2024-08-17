@@ -22,7 +22,7 @@ def create_podcast_endpoint(podcast_create: PodcastCreate, db: Session = Depends
 def get_all_podcasts(db: Session = Depends(get_db)):
     return read_all_podcast(db=db)
 
-@router.get("/podcasts/get/{user_id}")
+@router.get("/podcasts/get/{podcast_id}")
 def read_podcast_endpoint(podcast_id: int, db: Session = Depends(get_db)):
     podcast = read_podcast(db=db,podcast_id=podcast_id)
     if not podcast:
