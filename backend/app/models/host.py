@@ -6,7 +6,9 @@ class Host(Base):
     __tablename__ = "hosts"
     
     id = Column(Integer, primary_key=True, index=True)
-    name = Column(String)
-    podcast_id = Column(Integer, ForeignKey('podcasts.id'))  # Adiciona a ForeignKey aqui
+    biography = Column(String)
+    
+    user_id = Column(Integer, ForeignKey("users.id"))  # Adicionando a ForeignKey para User
 
-    podcasts = relationship("Podcast", back_populates="hosts")
+    podcasts = relationship("Podcast", back_populates="host")  # Corrigido para 'host'
+    user = relationship("User", back_populates="hosts")

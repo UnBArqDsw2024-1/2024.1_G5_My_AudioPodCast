@@ -15,3 +15,12 @@ class User(Base):
     
     playlists = relationship("Playlist", back_populates="owner")
     ratings = relationship("Rating", back_populates="user")
+    hosts = relationship("Host", back_populates="user")  # Relacionamento com Host
+
+    def set_permission_strategy(self, strategy: UserPermission):
+        self.permission_strategy = strategy
+
+    def access_resources(self):
+        if self.permission_strategy:
+            return self.permission_strategy.access_resources()
+        return "Permissão não definida."

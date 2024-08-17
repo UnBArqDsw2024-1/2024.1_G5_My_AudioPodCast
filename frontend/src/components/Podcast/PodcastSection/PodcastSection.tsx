@@ -13,7 +13,7 @@ const PodcastSection = () => {
 
       <div className="w-full py-5 flex justify-center items-center">
         <Link
-          to="/podcast"
+          to="/podcasts"
           className="bg-blue-600 hover:bg-blue-700 py-4 px-5 font-bold text-white rounded-md w-[200px] text-center"
         >
           Ver mais

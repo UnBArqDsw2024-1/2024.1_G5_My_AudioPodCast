@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String
+from sqlalchemy import Column, Integer, String, ForeignKey
 from sqlalchemy.orm import relationship
 from ..database import Base
 
@@ -11,5 +11,7 @@ class Episode(Base):
     createDate = Column(String)  # Consider using DateTime if appropriate
     duration = Column(Integer)
     subject = Column(String)
-    
+    podcast_id = Column(Integer, ForeignKey("podcasts.id"))
+
     ratings = relationship("Rating", back_populates="episode")
+    podcast = relationship("Podcast", back_populates="episodes")
